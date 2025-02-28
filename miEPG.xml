@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/02/2025 07:08" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 28/02/2025 07:31" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 HD">
     <display-name>La 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -22,6 +22,10 @@
   </channel>
   <channel id="ES: ANTENA 3 SD">
     <display-name>ES: ANTENA 3 SD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" />
+  </channel>
+  <channel id="ANTENA 3 SD">
+    <display-name>ANTENA 3 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" />
   </channel>
   <channel id="ES: ANTENA 3 HD">
@@ -6917,6 +6921,1035 @@
 · Programa de televenta directa de joyería. Votos: 12.
 · País: España</desc>
   </programme>
+  <programme start="20250227061500 +0100" stop="20250227085500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+  </programme>
+  <programme start="20250227085500 +0100" stop="20250227132000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Espejo Público T19 E4462</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+  </programme>
+  <programme start="20250227132000 +0100" stop="20250227134500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2895</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2025 | TP
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250227134500 +0100" stop="20250227150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2024 E4178</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250227150000 +0100" stop="20250227153000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+  </programme>
+  <programme start="20250227153000 +0100" stop="20250227153500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 404.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250227153500 +0100" stop="20250227154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Información/Meteorología | TP | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250227154500 +0100" stop="20250227170000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sueños de libertad T1 E255</title>
+    <desc lang="es">Series/Drama | 2024 | +12 | *4.0/10
+· Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 1.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+  </programme>
+  <programme start="20250227170000 +0100" stop="20250227200000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Y ahora, Sonsoles T3 E129</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250227200000 +0100" stop="20250227210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pasapalabra T4 E1218</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+  </programme>
+  <programme start="20250227210000 +0100" stop="20250227213000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Información/Informativo | *8.0/10
+· Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+  </programme>
+  <programme start="20250227213000 +0100" stop="20250227213500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250227213500 +0100" stop="20250227214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 421.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250227214500 +0100" stop="20250227225000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El hormiguero 3.0 T19 · Los Morancos</title>
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7
+· César y Jorge Cadaval siguen triunfando en Madrid con su show "Bis a Bis".
+· País: España
+· Presenta: Pablo Motos.
+· Productora: 7 y acción.</desc>
+  </programme>
+  <programme start="20250227225000 +0100" stop="20250228000300 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Honor T1 E8</title>
+    <desc lang="es">Series/Thriller | 2023 | +12 | *10.0/10
+· Los peores temores de Romero se cumplen y su hijo Álex corre peligro de muerte. Consciente de que Vicente Aguilar no dejará nunca de ser una amenaza para su familia, Romero urde un plan. Votos: 1.
+· País: España
+· Dirección: Luis Prieto, Chiqui Carabante.
+· Reparto: Darío Grandinetti, María Morales, Mercedes León, José Luis García Pérez, Mara Guill.
+· Guion: Ron Ninio.
+· Productora: Atresmedia, Portocabo.</desc>
+  </programme>
+  <programme start="20250228000300 +0100" stop="20250228011500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Honor T1 E6</title>
+    <desc lang="es">Series/Thriller | 2023 | +12 | *8.0/10
+· Romero, en su alianza forzada con Vicente, trata de ayudarlo a localizar al Tato. Votos: 2.
+· País: España
+· Dirección: Luis Prieto, Chiqui Carabante.
+· Reparto: Darío Grandinetti, María Morales, Mercedes León, José Luis García Pérez, Mara Guill.
+· Guion: Ron Ninio.
+· Productora: Atresmedia, Portocabo.</desc>
+  </programme>
+  <programme start="20250228011500 +0100" stop="20250228024500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El legado absoluto</title>
+    <desc lang="es">Cine/Drama | 2015 | +12 | *8.0/10
+· Jason Stevens ayuda a un amigo que debe lidiar con algunas tragedias familiares, como ya hizo él. En este camino aprende que cuando enseñas a la gente a enseñar, cambias el mundo. Votos: 30.
+· Título original: The Ultimate Legacy
+· País: EE.UU.
+· Dirección: Joanne Hock.
+· Reparto: Brian Dennehy, Raquel Welch, Bill Cobbs, Doug Jones, Lee Meriwether.
+· Guion: Rick Eldridge, Jimmy Hager.
+· Productora: ReelWorks Studios, Ultimate Legacy.</desc>
+  </programme>
+  <programme start="20250228024500 +0100" stop="20250228033000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250228033000 +0100" stop="20250228043000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250228043000 +0100" stop="20250228053000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250228053000 +0100" stop="20250228060000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250228060000 +0100" stop="20250228061500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 13.
+</desc>
+  </programme>
+  <programme start="20250228061500 +0100" stop="20250228085500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 551.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+  </programme>
+  <programme start="20250228085500 +0100" stop="20250228132000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Espejo Público T19 E4463</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+  </programme>
+  <programme start="20250228132000 +0100" stop="20250228134500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2896</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2025 | TP
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250228134500 +0100" stop="20250228150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2025 E4416</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250228150000 +0100" stop="20250228153000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 871.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+  </programme>
+  <programme start="20250228153000 +0100" stop="20250228153500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 399.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250228153500 +0100" stop="20250228154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Información/Meteorología | TP | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250228154500 +0100" stop="20250228170000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sueños de libertad T1 E256</title>
+    <desc lang="es">Series/Drama | 2024 | +12 | *8.0/10
+· Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola. Votos: 1.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+  </programme>
+  <programme start="20250228170000 +0100" stop="20250228200000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Y ahora, Sonsoles T3 E130</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250228200000 +0100" stop="20250228210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pasapalabra T4 E1219</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+  </programme>
+  <programme start="20250228210000 +0100" stop="20250228214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Información/Informativo | *8.0/10
+· Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1176.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+  </programme>
+  <programme start="20250228214500 +0100" stop="20250228215500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 470.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250228215500 +0100" stop="20250228221000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 419.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250228221000 +0100" stop="20250301004000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El Desafío T5 E8</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | +7
+· Un grupo de famosos se enfrenta a difíciles pruebas cada semana en este concurso.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Televisión, 7 y acción.</desc>
+  </programme>
+  <programme start="20250301004000 +0100" stop="20250301031000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El Desafío T3 E7</title>
+    <desc lang="es">Entretenimiento/Concurso | 2023 | +7 | *8.0/10
+· Rosa López tendrá que enfrentarse a la Apnea en el séptimo programa, la percusión de película junto a la Film Symphony Orchestra será para Jorge Lorenzo. El duelo en el reto del calamar es para Florentino Fernández y Jorge Blanco. Votos: 1.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: 7 y acción, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250301031000 +0100" stop="20250301035500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 13.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250301035500 +0100" stop="20250301045500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250301045500 +0100" stop="20250301055500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250301055500 +0100" stop="20250301064500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250301064500 +0100" stop="20250301070000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 13.
+</desc>
+  </programme>
+  <programme start="20250301070000 +0100" stop="20250301072500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E4</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 68.
+· País: España</desc>
+  </programme>
+  <programme start="20250301072500 +0100" stop="20250301075000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E5</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 64.
+· País: España</desc>
+  </programme>
+  <programme start="20250301075000 +0100" stop="20250301081500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E6</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 80.
+· País: España</desc>
+  </programme>
+  <programme start="20250301081500 +0100" stop="20250301124500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Los más</title>
+    <desc lang="es">Entretenimiento/Zapping | 2017 | TP | *6.0/10
+· Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 383.
+· País: España</desc>
+  </programme>
+  <programme start="20250301124500 +0100" stop="20250301135000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2024 | TP | *8.0/10
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 13.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250301135000 +0100" stop="20250301150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2024 E4180</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250301150000 +0100" stop="20250301154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias (Fin de semana)</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 520.
+· Título original: Antena 3 Noticias 1 (Fin de semana)
+· País: España
+· Presenta: Matías Prats, Mónica Carrillo.</desc>
+  </programme>
+  <programme start="20250301154500 +0100" stop="20250301155500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 437.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250301155500 +0100" stop="20250301160000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo fin de semana</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 359.
+· País: España
+· Presenta: Himar González.</desc>
+  </programme>
+  <programme start="20250301160000 +0100" stop="20250301174500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250301174500 +0100" stop="20250301192000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250301192000 +0100" stop="20250301210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250301210000 +0100" stop="20250301214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias (Fin de semana)</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana. Votos: 578.
+· Título original: Antena 3 Noticias 2 (Fin de semana)
+· País: España
+· Presenta: Matías Prats, Mónica Carrillo.</desc>
+  </programme>
+  <programme start="20250301214500 +0100" stop="20250301215500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 437.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250301215500 +0100" stop="20250301221000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo fin de semana</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 359.
+· País: España
+· Presenta: Himar González.</desc>
+  </programme>
+  <programme start="20250301221000 +0100" stop="20250302023000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Atrapa un millón T3 E8</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso en el que una pareja debe responder a ocho preguntas de actualidad y conocimientos generales para llevarse un millón de euros en efectivo.
+· País: España
+· Presenta: Juanra Bonet.
+· Productora: Atresmedia Televisión, Banijay Iberia.</desc>
+  </programme>
+  <programme start="20250302023000 +0100" stop="20250302031500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250302031500 +0100" stop="20250302041500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250302041500 +0100" stop="20250302051500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250302051500 +0100" stop="20250302064500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250302064500 +0100" stop="20250302070000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
+</desc>
+  </programme>
+  <programme start="20250302070000 +0100" stop="20250302072500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E7</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 42.
+· País: España</desc>
+  </programme>
+  <programme start="20250302072500 +0100" stop="20250302075000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E8</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 69.
+· País: España</desc>
+  </programme>
+  <programme start="20250302075000 +0100" stop="20250302081500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pelopicopata T1 E9</title>
+    <desc lang="es">Entretenimiento | 2004 | TP | *6.0/10
+· Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 70.
+· País: España</desc>
+  </programme>
+  <programme start="20250302081500 +0100" stop="20250302100000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Los más</title>
+    <desc lang="es">Entretenimiento/Zapping | 2017 | TP | *6.0/10
+· Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 386.
+· País: España</desc>
+  </programme>
+  <programme start="20250302100000 +0100" stop="20250302103000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Centímetros cúbicos T13 E338</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | +7
+· Espacio semanal que hace un repaso a la actualidad relacionada con los deportes de motor.
+· País: España</desc>
+  </programme>
+  <programme start="20250302103000 +0100" stop="20250302124500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El Desafío T5 E7</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | +7 | *10.0/10
+· En la séptima gala, Manuel Díaz "El Cordobés" debe superar la prueba más famosa del programa: la apnea, mientras que Feliciano López y Roberto Brasero se enfrentan a un arriesgado duelo de altura: El puente. Votos: 2.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Televisión, 7 y acción.</desc>
+  </programme>
+  <programme start="20250302124500 +0100" stop="20250302135000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2024 | TP | *8.0/10
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 13.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250302135000 +0100" stop="20250302150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2024 E4181</title>
+    <desc lang="es">Entretenimiento/Concurso | 2024 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250302150000 +0100" stop="20250302154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias (Fin de semana)</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 521.
+· Título original: Antena 3 Noticias 1 (Fin de semana)
+· País: España
+· Presenta: Matías Prats, Mónica Carrillo.</desc>
+  </programme>
+  <programme start="20250302154500 +0100" stop="20250302155500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 439.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250302155500 +0100" stop="20250302160000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo fin de semana</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 359.
+· País: España
+· Presenta: Himar González.</desc>
+  </programme>
+  <programme start="20250302160000 +0100" stop="20250302174500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250302174500 +0100" stop="20250302192000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250302192000 +0100" stop="20250302210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cine</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250302210000 +0100" stop="20250302214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias (Fin de semana)</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana. Votos: 578.
+· Título original: Antena 3 Noticias 2 (Fin de semana)
+· País: España
+· Presenta: Matías Prats, Mónica Carrillo.</desc>
+  </programme>
+  <programme start="20250302214500 +0100" stop="20250302215500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 439.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250302215500 +0100" stop="20250302221000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo fin de semana</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 359.
+· País: España
+· Presenta: Himar González.</desc>
+  </programme>
+  <programme start="20250302221000 +0100" stop="20250303023000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Una nueva vida T1 E25</title>
+    <desc lang="es">Series/Drama | 2023 | +16
+· El pilar de una de las familias mejor establecidas del lugar, decide casar a su nieto rebelde para alinearlo.
+· Título original: Yali Çapkini (T1): Ep.25
+· País: Turquía
+· Reparto: Afra Saraçoglu, Mert Ramazan Demir, Gülçin Santircioglu, Emre Altug, Beril Pozam.</desc>
+  </programme>
+  <programme start="20250303023000 +0100" stop="20250303031500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250303031500 +0100" stop="20250303041500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250303041500 +0100" stop="20250303051500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250303051500 +0100" stop="20250303060000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250303060000 +0100" stop="20250303061500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
+</desc>
+  </programme>
+  <programme start="20250303061500 +0100" stop="20250303085500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+  </programme>
+  <programme start="20250303085500 +0100" stop="20250303132000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Espejo Público T19 E4464</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+  </programme>
+  <programme start="20250303132000 +0100" stop="20250303134500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2897</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2025 | TP
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250303134500 +0100" stop="20250303150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2025 E4417</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250303150000 +0100" stop="20250303153000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 873.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+  </programme>
+  <programme start="20250303153000 +0100" stop="20250303153500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 401.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250303153500 +0100" stop="20250303154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Información/Meteorología | TP | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250303154500 +0100" stop="20250303170000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sueños de libertad T1 E257</title>
+    <desc lang="es">Series/Drama | 2024 | +12
+· Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+  </programme>
+  <programme start="20250303170000 +0100" stop="20250303200000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Y ahora, Sonsoles T3 E131</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250303200000 +0100" stop="20250303210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pasapalabra T4 E1220</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+  </programme>
+  <programme start="20250303210000 +0100" stop="20250303213000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Información/Informativo | *8.0/10
+· Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1182.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+  </programme>
+  <programme start="20250303213000 +0100" stop="20250303213500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250303213500 +0100" stop="20250303214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 419.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250303214500 +0100" stop="20250303225000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El hormiguero 3.0 T19 E2139</title>
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7
+· Programa que mezcla la ciencia, la música y la política con el humor.
+· País: España
+· Presenta: Pablo Motos.
+· Productora: 7 y acción.</desc>
+  </programme>
+  <programme start="20250303225000 +0100" stop="20250304021500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Renacer T1</title>
+    <desc lang="es">Series/Comedia | 2024 | +12 | *8.0/10
+· Bahar abandonó su carrera como médica para dedicarse a su familia, pero cuando una grave enfermedad pone su vida en peligro, descubre la traición de su marido, quien, siendo el único posible donante de hígado, se niega a salvarla. Votos: 16.
+· País: Turquía
+· Reparto: Demet Evgar, Mehmet Yilmaz Ak, Bugra Gülsoy, Elit Andaç Çam, Ecem Özkaya.
+· Productora: MF Yapim.</desc>
+  </programme>
+  <programme start="20250304021500 +0100" stop="20250304030000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250304030000 +0100" stop="20250304040000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250304040000 +0100" stop="20250304050000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250304050000 +0100" stop="20250304060000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250304060000 +0100" stop="20250304061500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
+</desc>
+  </programme>
+  <programme start="20250304061500 +0100" stop="20250304085500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+  </programme>
+  <programme start="20250304085500 +0100" stop="20250304132000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Espejo Público T19 E4465</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+  </programme>
+  <programme start="20250304132000 +0100" stop="20250304134500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2898</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2025 | TP
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250304134500 +0100" stop="20250304150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2025 E4418</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250304150000 +0100" stop="20250304153000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+  </programme>
+  <programme start="20250304153000 +0100" stop="20250304153500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 402.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250304153500 +0100" stop="20250304154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Información/Meteorología | TP | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250304154500 +0100" stop="20250304170000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sueños de libertad T1 E258</title>
+    <desc lang="es">Series/Drama | 2024 | +12
+· Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+  </programme>
+  <programme start="20250304170000 +0100" stop="20250304200000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Y ahora, Sonsoles T3 E132</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250304200000 +0100" stop="20250304210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pasapalabra T4 E1221</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+  </programme>
+  <programme start="20250304210000 +0100" stop="20250304213000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Información/Informativo | *8.0/10
+· Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+  </programme>
+  <programme start="20250304213000 +0100" stop="20250304213500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250304213500 +0100" stop="20250304214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 419.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250304214500 +0100" stop="20250304225000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El hormiguero 3.0 T19 E2140</title>
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7
+· Programa que mezcla la ciencia, la música y la política con el humor.
+· País: España
+· Presenta: Pablo Motos.
+· Productora: 7 y acción.</desc>
+  </programme>
+  <programme start="20250304225000 +0100" stop="20250305021500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Renacer T1</title>
+    <desc lang="es">Series/Comedia | 2024 | +12 | *8.0/10
+· Bahar abandonó su carrera como médica para dedicarse a su familia, pero cuando una grave enfermedad pone su vida en peligro, descubre la traición de su marido, quien, siendo el único posible donante de hígado, se niega a salvarla. Votos: 16.
+· País: Turquía
+· Reparto: Demet Evgar, Mehmet Yilmaz Ak, Bugra Gülsoy, Elit Andaç Çam, Ecem Özkaya.
+· Productora: MF Yapim.</desc>
+  </programme>
+  <programme start="20250305021500 +0100" stop="20250305030000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250305030000 +0100" stop="20250305040000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250305040000 +0100" stop="20250305050000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250305050000 +0100" stop="20250305060000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Venta Prime</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *8.0/10
+· Espacio de televenta. Votos: 15.
+· Título original: Ventaprime</desc>
+  </programme>
+  <programme start="20250305060000 +0100" stop="20250305061500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Remescar cosmética al instante T1 E15</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
+</desc>
+  </programme>
+  <programme start="20250305061500 +0100" stop="20250305085500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Información/Informativo | 2014 | *6.0/10
+· Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
+· País: España
+· Presenta: Manu Sánchez, Marina Monzón, Noor Ben Yessef.</desc>
+  </programme>
+  <programme start="20250305085500 +0100" stop="20250305132000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Espejo Público T19 E4466</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Magacín matinal con información de actualidad y reportajes de sociedad.
+· País: España
+· Dirección: Julián Nieto.</desc>
+  </programme>
+  <programme start="20250305132000 +0100" stop="20250305134500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2899</title>
+    <desc lang="es">Ocio y Aficiones/Cocina | 2025 | TP
+· Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
+· País: España
+· Presenta: Karlos Arguiñano.
+· Productora: Bainet TV.</desc>
+  </programme>
+  <programme start="20250305134500 +0100" stop="20250305150000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La ruleta de la suerte T2025 E4419</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso en el que los participantes hacen girar una ruleta para obtener premios.
+· País: España
+· Presenta: Jorge Fernández.</desc>
+  </programme>
+  <programme start="20250305150000 +0100" stop="20250305153000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Información/Informativo | *6.0/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
+· País: España
+· Dirección: Sandra Golpe.</desc>
+  </programme>
+  <programme start="20250305153000 +0100" stop="20250305153500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 404.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250305153500 +0100" stop="20250305154500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Información/Meteorología | TP | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250305154500 +0100" stop="20250305170000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sueños de libertad T1 E259</title>
+    <desc lang="es">Series/Drama | 2024 | +12
+· Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
+· País: España
+· Reparto: Natalia Sánchez, Alain Hernández, Dani Tatay, Nancho Novo, Ana Fernández.
+· Productora: Atresmedia, Diagonal TV.</desc>
+  </programme>
+  <programme start="20250305170000 +0100" stop="20250305200000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Y ahora, Sonsoles T3 E133</title>
+    <desc lang="es">Entretenimiento/Magacín | 2025 | +16
+· Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
+· País: España
+· Presenta: Sonsoles Ónega.
+· Productora: Buendía Estudios, Atresmedia Televisión.</desc>
+  </programme>
+  <programme start="20250305200000 +0100" stop="20250305210000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Pasapalabra T4 E1222</title>
+    <desc lang="es">Entretenimiento/Concurso | 2025 | TP
+· Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+· País: España
+· Presenta: Roberto Leal.
+· Productora: Atresmedia Studios, ITV Studios.</desc>
+  </programme>
+  <programme start="20250305210000 +0100" stop="20250305213000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Información/Informativo | *8.0/10
+· Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
+· País: España
+· Presenta: Susanna Griso, J. J Santos, Vicente Vallés, Esther Vaquero.</desc>
+  </programme>
+  <programme start="20250305213000 +0100" stop="20250305213500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Información/Deportes | 2013 | *6.0/10
+· Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
+· País: España
+· Presenta: Rocío Martínez, Angie Rigueiro, Alba Dueñas.</desc>
+  </programme>
+  <programme start="20250305213500 +0100" stop="20250305214500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Información/Meteorología | *6.0/10
+· Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 421.
+· País: España
+· Presenta: Roberto Brasero.</desc>
+  </programme>
+  <programme start="20250305214500 +0100" stop="20250305225000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El hormiguero 3.0 T19 E2141</title>
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7
+· Programa que mezcla la ciencia, la música y la política con el humor.
+· País: España
+· Presenta: Pablo Motos.
+· Productora: 7 y acción.</desc>
+  </programme>
+  <programme start="20250305225000 +0100" stop="20250306000200 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El Capitán en América E8</title>
+    <desc lang="es">Documentales/Viajes | 2025 | +7
+· Joaquín Sánchez recorre la Costa Oeste de EE. UU con su mujer, Susana Saborido, y sus dos hijas. Un desafío por cuatro estados, California, Arizona, Utah y Nevada, repleto de retos, risas y confidencias que fortalecerán los lazos familiares.
+· País: España
+· Productora: Atresmedia Televisión, Proamagna.</desc>
+  </programme>
+  <programme start="20250306000200 +0100" stop="20250306011500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">El Capitán en América: La gran crisis</title>
+    <desc lang="es">Documentales/Viajes | 2025 | +7
+· Joaquín reflexiona acerca de cómo es su vida y de cómo esta ha cambiado.
+· País: España
+· Productora: Atresmedia Televisión, Proamagna.</desc>
+  </programme>
+  <programme start="20250306011500 +0100" stop="20250306023000 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Joaquín, el novato T1 · Especial: Detrás de Joaquín el novato</title>
+    <desc lang="es">Entretenimiento/Humor | 2022 | +7 | *10.0/10
+· Joaquín Sánchez se acerca a las profesiones de los rostros más famosos del país. Votos: 2.
+· País: España
+· Presenta: Joaquín Sánchez.
+· Productora: Atresmedia Televisión, Proamagna.</desc>
+  </programme>
+  <programme start="20250306023000 +0100" stop="20250306031500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Entretenimiento | 2025 | +18 | *4.0/10
+· Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 13.
+· País: España
+· Presenta: Gemma Manzanero, Marc Vila, Sofía del Prado.</desc>
+  </programme>
+  <programme start="20250306031500 +0100" stop="20250306041500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Play Uzu Nights</title>
+    <desc lang="es">Entretenimiento/Variedades | 2020 | +18 | *6.0/10
+· Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
+· País: España</desc>
+  </programme>
+  <programme start="20250306041500 +0100" stop="20250306051500 +0100" channel="ANTENA 3 SD">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Ocio y Aficiones/Televenta | 2024 | TP | *6.0/10
+· Programa de televenta directa de joyería. Votos: 12.
+· País: España</desc>
+  </programme>
   <programme start="20250227061500 +0100" stop="20250227085500 +0100" channel="ES: ANTENA 3 HD">
     <title lang="es">Las noticias de la mañana</title>
     <desc lang="es">Información/Informativo | 2014 | *6.0/10
@@ -11557,95 +12590,6 @@
       <value>TVMA</value>
     </rating>
   </programme>
-  <programme start="20250226000000 +0100" stop="20250226020000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: FC Bayern Monachium - Eintracht Frankfurt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6084042.jpg" />
-  </programme>
-  <programme start="20250226020000 +0100" stop="20250226040000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: US Lecce - Udinese Calcio</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
-  </programme>
-  <programme start="20250226040000 +0100" stop="20250226050000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
-  </programme>
-  <programme start="20250226050000 +0100" stop="20250226060000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Z archiwum LaLiga</title>
-    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
-  </programme>
-  <programme start="20250226060000 +0100" stop="20250226062500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Unikalne tradycje LaLiga</title>
-    <desc lang="pl">Twórcy przedstawiają tradycje związane z ligą hiszpańską. Jedną z nich jest zwyczaj, według którego drużyny przyjezdne, przed meczem z Athletikiem w Bilbao, składały kwiaty pod popiersiem Pichichiego.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20250226062500 +0100" stop="20250226070000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Ronaldo</title>
-    <desc lang="pl">Biografia Luisa Nazario de Limy. Piłkarski idol początkowo święcił triumfy w barwach FC Barcelony. Potem grał m.in. dla Realu Madryt. Ma w dorobku tytuł mistrza świata za wygranie mundialu w 2002 r.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20250226070000 +0100" stop="20250226074000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Jorge Valdano</title>
-    <desc lang="pl">Biografia Jorge Valdano, legendarnego piłkarza, który bronił barw Realu Madryt w latach 1984-1987. Jako zawodnik Królewskich Argentyńczyk dwukrotnie zdobywał mistrzostwo Hiszpanii.</desc>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-  </programme>
-  <programme start="20250226074000 +0100" stop="20250226122000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Przedsezonowe testy w Bahrajnie - 1. dzień</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
-  </programme>
-  <programme start="20250226122000 +0100" stop="20250226124000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Historyczne momenty Ligue 1</title>
-    <sub-title lang="pl">Olympique Lyon - Olympique Marsylia</sub-title>
-    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
-  </programme>
-  <programme start="20250226124000 +0100" stop="20250226172500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Formuła 1: Przedsezonowe testy w Bahrajnie - 1. dzień</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796086.jpg" />
-  </programme>
-  <programme start="20250226172500 +0100" stop="20250226174500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Tajemnice szatni</title>
-    <sub-title lang="pl">Dante</sub-title>
-    <desc lang="pl">Program przedstawia futbol od kulis. Piłkarze dzielą się w nim wspomnieniami z szatni. Będą ciekawe historie, zabawne anegdotki i opisy wydarzeń, o których większość kibiców do tej pory nie słyszała.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
-  </programme>
-  <programme start="20250226174500 +0100" stop="20250226182500 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Full Impact Serie A</title>
-    <desc lang="pl">Program poświęcony jednej z najlepszych piłkarskich lig na świecie - włoskiej Serie A.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901248.jpg" />
-    <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme start="20250226182500 +0100" stop="20250226204000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: AS Roma - AC Monza</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5981771.jpg" />
-  </programme>
-  <programme start="20250226204000 +0100" stop="20250226230000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Piłka nożna: Puchar Niemiec - mecz ćwierćfinałowy: RB Lipsk - VfL Wolfsburg</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5961885.jpg" />
-  </programme>
-  <programme start="20250226230000 +0100" stop="20250226233000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">LaLiga Chronicles</title>
-    <desc lang="pl">Program poświęcony rozgrywkom hiszpańskiej ekstraklasy. Widzowie znajdą w nim między innymi skróty najciekawszych meczów oraz wypowiedzi gwiazd LaLigi.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901260.jpg" />
-    <episode-num system="onscreen">E25</episode-num>
-  </programme>
-  <programme start="20250226233000 +0100" stop="20250227000000 +0100" channel="Eleven Sports 1 Polonia">
-    <title lang="pl">Legendy LaLiga</title>
-    <sub-title lang="pl">Michael Laudrup</sub-title>
-    <desc lang="pl">Autorzy programu prezentują sylwetki najlepszych piłkarzy w historii Primera Division.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619004.jpg" />
-  </programme>
   <programme start="20250227000000 +0100" stop="20250227020000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Holstein Kiel - Bayer 04 Leverkusen</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
@@ -11915,11 +12859,11 @@
     <title lang="pl">Piłka nożna: Liga włoska - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20250301175500 +0100" stop="20250301200000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20250301175500 +0100" stop="20250301195500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga włoska - mecz: SSC Napoli - Inter Mediolan</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20250301200000 +0100" stop="20250301204000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20250301195500 +0100" stop="20250301204000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga włoska - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
@@ -11992,11 +12936,11 @@
     <title lang="pl">Piłka nożna: Liga hiszpańska - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
   </programme>
-  <programme start="20250302161000 +0100" stop="20250302181500 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20250302161000 +0100" stop="20250302181000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Sociedad</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050758.jpg" />
   </programme>
-  <programme start="20250302181500 +0100" stop="20250302190000 +0100" channel="Eleven Sports 1 Polonia">
+  <programme start="20250302181000 +0100" stop="20250302190000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - studio</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
   </programme>
@@ -12129,112 +13073,98 @@
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20250226000000 +0100" stop="20250226020000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Valencia CF - Atletico Madryt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  <programme start="20250304000000 +0100" stop="20250304020000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: RB Lipsk - 1. FSV Mainz 05</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5961885.jpg" />
   </programme>
-  <programme start="20250226020000 +0100" stop="20250226023500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Serie A</title>
-    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi włoskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795914.jpg" />
-    <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme start="20250226023500 +0100" stop="20250226031000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Ligue1</title>
-    <desc lang="pl">Magazyn sportowy poświęcony rozgrywkom francuskiej Ligue 1. Prezentowane są w nim skróty wszystkich meczów minionego weekendu oraz bramki.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795913.jpg" />
-    <episode-num system="onscreen">E23</episode-num>
-  </programme>
-  <programme start="20250226031000 +0100" stop="20250226034000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga</title>
-    <desc lang="pl">Program poświęcony rozgrywkom LaLigi podsumowujący ostatnią kolejkę. Prezentowane są w nim skróty wszystkich meczów, ciekawe dane statyczne oraz wywiady z zawodnikami.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3996830.jpg" />
-    <episode-num system="onscreen">E25</episode-num>
-  </programme>
-  <programme start="20250226034000 +0100" stop="20250226040000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Nacho - El Capitan</title>
-    <category lang="pl">film dokumentalny</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984459.jpg" />
-  </programme>
-  <programme start="20250226040000 +0100" stop="20250226060000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: US Lecce - Udinese Calcio</title>
+  <programme start="20250304020000 +0100" stop="20250304040000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: ACF Fiorentina - US Lecce</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20250226060000 +0100" stop="20250226080000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Valencia CF - Atletico Madryt</title>
+  <programme start="20250304040000 +0100" stop="20250304050000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
   </programme>
-  <programme start="20250226080000 +0100" stop="20250226100000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: AJ Auxerre - Olympique Marsylia</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  <programme start="20250304050000 +0100" stop="20250304060000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Z archiwum LaLiga</title>
+    <desc lang="pl">Rywalizacja w LaLiga kojarzona jest z walką dwóch futbolowych gigantów - Realu Madryt z FC Barceloną, w których składach występowali najwięksi piłkarze świata. Liga hiszpańska to nie tylko El Clasico.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
   </programme>
-  <programme start="20250226100000 +0100" stop="20250226110000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20250304060000 +0100" stop="20250304080000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: AC Milan - SS Lazio</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20250304080000 +0100" stop="20250304100000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Eintracht Frankfurt - Bayer 04 Leverkusen</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20250304100000 +0100" stop="20250304120000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: CA Osasuna - Valencia CF</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
+  </programme>
+  <programme start="20250304120000 +0100" stop="20250304130000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Eleven Top Goals</title>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
   </programme>
-  <programme start="20250226110000 +0100" stop="20250226113500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga World</title>
-    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi hiszpańskiej. Prezentowane są w nim wywiady z zawodnikami, sylwetki trenerów, ligowe ciekawostki z bieżących rozgrywek, ale także te o zabarwieniu historycznym.</desc>
+  <programme start="20250304130000 +0100" stop="20250304133500 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">LaLiga Best 11</title>
+    <sub-title lang="pl">Iker Casillas</sub-title>
+    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
     <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2769923.jpg" />
-    <episode-num system="onscreen">E29</episode-num>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
   </programme>
-  <programme start="20250226113500 +0100" stop="20250226120000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga Zap</title>
-    <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
-    <episode-num system="onscreen">E6</episode-num>
+  <programme start="20250304133500 +0100" stop="20250304140000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Historyczne momenty Ligue 1</title>
+    <sub-title lang="pl">Lille OSC 2020/21</sub-title>
+    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
+    <category lang="pl">cykl reportaży</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
   </programme>
-  <programme start="20250226120000 +0100" stop="20250226140000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Holstein Kiel - Bayer 04 Leverkusen</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  <programme start="20250304140000 +0100" stop="20250304160000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: Atalanta BC - Venezia FC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
   </programme>
-  <programme start="20250226140000 +0100" stop="20250226160000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: Olympique Lyon - Paris Saint-Germain</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  <programme start="20250304160000 +0100" stop="20250304180000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Sociedad</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050758.jpg" />
   </programme>
-  <programme start="20250226160000 +0100" stop="20250226180000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Borussia Dortmund - 1. FC Union Berlin</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  <programme start="20250304180000 +0100" stop="20250304200000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: RB Lipsk - 1. FSV Mainz 05</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5961885.jpg" />
   </programme>
-  <programme start="20250226180000 +0100" stop="20250226183500 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">LaLiga World</title>
-    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi hiszpańskiej. Prezentowane są w nim wywiady z zawodnikami, sylwetki trenerów, ligowe ciekawostki z bieżących rozgrywek, ale także te o zabarwieniu historycznym.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2769923.jpg" />
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme start="20250226183500 +0100" stop="20250226191000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20250304200000 +0100" stop="20250304203500 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Ligue 1 Show</title>
     <desc lang="pl">Magazyn poświęcony rozgrywkom ligi francuskiej. Prezentowane są w nim wywiady z zawodnikami, ligowe ciekawostki oraz zapowiedzi meczów z nadchodzącej kolejki.</desc>
     <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762186.jpg" />
-    <episode-num system="onscreen">E22</episode-num>
+    <episode-num system="onscreen">E23</episode-num>
   </programme>
-  <programme start="20250226191000 +0100" stop="20250226193000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Historyczne momenty Ligue 1</title>
-    <sub-title lang="pl">RC Lens 2022/23</sub-title>
-    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
-    <category lang="pl">cykl reportaży</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028587.jpg" />
-  </programme>
-  <programme start="20250226193000 +0100" stop="20250226200000 +0100" channel="Eleven Sports 2 Polonia">
+  <programme start="20250304203500 +0100" stop="20250304211000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">LaLiga Power</title>
     <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20250304211000 +0100" stop="20250304213000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">LaLiga Zap</title>
+    <desc lang="pl">Omówienie najciekawszych wydarzeń ostatnich tygodni w najwyższej klasie rozgrywkowej w Hiszpanii. Będzie nie tylko na poważnie. W programie znajdą się też zabawne tematy związane z La Ligą.</desc>
+    <category lang="pl">magazyn piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20250226200000 +0100" stop="20250226220000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga włoska - mecz: Inter Mediolan - Genoa CFC</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050831.jpg" />
+  <programme start="20250304213000 +0100" stop="20250304220000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">LaLiga World</title>
+    <desc lang="pl">Magazyn poświęcony rozgrywkom ligi hiszpańskiej. Prezentowane są w nim wywiady z zawodnikami, sylwetki trenerów, ligowe ciekawostki z bieżących rozgrywek, ale także te o zabarwieniu historycznym.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2769923.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
   </programme>
-  <programme start="20250226220000 +0100" stop="20250227000000 +0100" channel="Eleven Sports 2 Polonia">
-    <title lang="pl">Piłka nożna: Liga francuska - mecz: Lille OSC - AS Monaco</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  <programme start="20250304220000 +0100" stop="20250305000000 +0100" channel="Eleven Sports 1 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: CA Osasuna - Valencia CF</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
   </programme>
   <programme start="20250227000000 +0100" stop="20250227020000 +0100" channel="Eleven Sports 2 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Real Madryt CF - Girona FC</title>
@@ -12756,5 +13686,95 @@
     <desc lang="pl">Widzowie poznają biografię Javiera Iruretay, piłkarza Atletico Madryt i Athleticu Bilbao. Jako zawodnik Bask święcił triumfy w barwach Rojiblancos, zdobywając dwukrotnie mistrzostwo Hiszpanii.</desc>
     <category lang="pl">film dokumentalny</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796010.jpg" />
+  </programme>
+  <programme start="20250304000000 +0100" stop="20250304020000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Sociedad</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050758.jpg" />
+  </programme>
+  <programme start="20250304020000 +0100" stop="20250304030000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Eleven Top Goals</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
+  </programme>
+  <programme start="20250304030000 +0100" stop="20250304040000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Leo Messi</title>
+    <desc lang="pl">Twórcy programu prezentują biografię Lionela Messiego. Przez lata gry dla FC Barcelony Argentyńczyk zapracował sobie na miano najlepszego piłkarza globu. Sześciokrotnie sięgał po Złotą Piłkę.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3575173.jpg" />
+  </programme>
+  <programme start="20250304040000 +0100" stop="20250304060000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: ACF Fiorentina - US Lecce</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20250304060000 +0100" stop="20250304080000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Sociedad</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6050758.jpg" />
+  </programme>
+  <programme start="20250304080000 +0100" stop="20250304100000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga francuska - mecz: Olympique Marsylia - FC Nantes</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  </programme>
+  <programme start="20250304100000 +0100" stop="20250304103500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Bundesliga Special Show</title>
+    <desc lang="pl">Podsumowanie najważniejszych informacji dotyczących jednej z najlepszych lig piłkarskich na świecie - niemieckiej Bundesligi.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20250304103500 +0100" stop="20250304111000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Best 11</title>
+    <sub-title lang="pl">Fernando Morientes</sub-title>
+    <desc lang="pl">Twórcy programu typują najlepszą jedenastkę piłkarzy, którzy zapisali się złotymi zgłoskami w historii Primera Division.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619003.jpg" />
+  </programme>
+  <programme start="20250304111000 +0100" stop="20250304114500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Undiano Mallenco</title>
+    <desc lang="pl">Dokument poświęcony arbitrowi Undianiemu Mallenco. W latach 2000-2019 sędziował mecze na szczeblu Primera Division. W swojej bogatej karierze prowadził także spotkania na szczeblu międzynarodowym.</desc>
+    <category lang="pl">film dokumentalny</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5619006.jpg" />
+  </programme>
+  <programme start="20250304114500 +0100" stop="20250304120000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Historyczne momenty Ligue 1</title>
+    <sub-title lang="pl">Marsylia kontra Bordeaux</sub-title>
+    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
+    <category lang="pl">cykl reportaży, Marsylia kontra Bordeaux</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419740.jpg" />
+  </programme>
+  <programme start="20250304120000 +0100" stop="20250304140000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: VfB Stuttgart - FC Bayern Monachium</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6084042.jpg" />
+  </programme>
+  <programme start="20250304140000 +0100" stop="20250304160000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga francuska - mecz: Olympique Lyon - Stade Brestois 29</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
+  </programme>
+  <programme start="20250304160000 +0100" stop="20250304180000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Eintracht Frankfurt - Bayer 04 Leverkusen</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3403975.jpg" />
+  </programme>
+  <programme start="20250304180000 +0100" stop="20250304190000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Eleven Top Goals</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901247.jpg" />
+  </programme>
+  <programme start="20250304190000 +0100" stop="20250304192500 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Historyczne momenty Ligue 1</title>
+    <sub-title lang="pl">Paris Saint-Germain 2012/13</sub-title>
+    <desc lang="pl">Program poświęcony francuskiej ekstraklasie. Twórcy przypominają najciekawsze momenty Ligue 1, wyjątkowe wyczyny drużyn, pamiętne mecze oraz klubowe rywalizacje, które zapisały się w pamięci kibiców.</desc>
+    <category lang="pl">cykl reportaży</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5028576.jpg" />
+  </programme>
+  <programme start="20250304192500 +0100" stop="20250304200000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">LaLiga Power</title>
+    <category lang="pl">magazyn piłkarski</category>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796022.jpg" />
+  </programme>
+  <programme start="20250304200000 +0100" stop="20250304220000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga włoska - mecz: SSC Napoli - Inter Mediolan</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901290.jpg" />
+  </programme>
+  <programme start="20250304220000 +0100" stop="20250305000000 +0100" channel="Eleven Sports 2 Polonia">
+    <title lang="pl">Piłka nożna: Liga francuska - mecz: Paris Saint-Germain - Lille OSC</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5901286.jpg" />
   </programme>
 </tv>
