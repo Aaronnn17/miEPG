@@ -1,4 +1,5 @@
-La 1 HD
+La 1 HD,LA 1 SD
+La 1 HD,LA 1 HD
 La 2
 Antena 3 HD
 Cuatro HD
