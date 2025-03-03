@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 03/03/2025 06:38" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/03/2025 07:10" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 HD LA 1 SD LA 1 UHD">
     <display-name>La 1 HD LA 1 SD LA 1 UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -47,6 +47,10 @@
   <channel id="USA | AMC+">
     <display-name>USA | AMC+</display-name>
     <icon src="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" />
+  </channel>
+  <channel id="LA LIGA 1 ᴴᴰ">
+    <display-name>LA LIGA 1 ᴴᴰ</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" />
   </channel>
   <programme start="20250302120000 +0100" stop="20250302125700 +0100" channel="La 1 HD LA 1 SD LA 1 UHD">
     <title lang="es">Españoles en el mundo T12 · Veracruz</title>
@@ -22322,4 +22326,3113 @@
     <category lang="en">Documentary</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20427808_i_h8_ai.jpg" />
     <previously-shown /></programme>
+  <programme start="20250302061300 +0100" stop="20250302080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302080000 +0100" stop="20250302083100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Dana</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 2.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845310" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302083100 +0100" stop="20250302102000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Tres puntos separan a Rayo y Sevilla en la clasificación, con ventaja para el conjunto vallecano. Los de Míchel quieren afianzarse en zona europea y poner tierra de por medio con un rival directo. A los hispalenses solo les vale ganar. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282543" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302102000 +0100" stop="20250302105600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302105600 +0100" stop="20250302124600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Isco Alarcón ha vuelto a su mejor nivel y el Real Betis está de nuevo en la lucha por Europa. Enfrente tendrá a un Real Madrid obligado a ganar para no perder comba en la carrera por el título, Votos: 101.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4356344" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302124600 +0100" stop="20250302130500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302130500 +0100" stop="20250302145500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302145500 +0100" stop="20250302152500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845309" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302152500 +0100" stop="20250302160500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Previa Liga Española. 1ª División.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302160500 +0100" stop="20250302181800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302181800 +0100" stop="20250302185300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Postpartido Liga.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302185300 +0100" stop="20250302190600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285810" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302190600 +0100" stop="20250302191800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302191800 +0100" stop="20250302193000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285704" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302193000 +0100" stop="20250302194300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285483" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302194300 +0100" stop="20250302195500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285461" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302195500 +0100" stop="20250302201000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Zaragoza - Sporting</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291691" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302201000 +0100" stop="20250302205000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Osasuna - Valencia</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Previa Liga Española. 1ª División.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302205000 +0100" stop="20250302230300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Osasuna - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · La progresión de CA Osasuna se ha visto frenada en las últimas tres jornadas, en las que los Rojillos han sido incapaces de ganar. Enfrente estará un Valencia CF necesitado de puntos para salir cuanto antes del descenso. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250302230300 +0100" stop="20250302231500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Osasuna - Valencia</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Postpartido Liga.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250302231500 +0100" stop="20250303000700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303000700 +0100" stop="20250303015700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303015700 +0100" stop="20250303021000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285810" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303021000 +0100" stop="20250303022200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303022200 +0100" stop="20250303023400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285704" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303023400 +0100" stop="20250303024600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303024600 +0100" stop="20250303025900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285461" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303025900 +0100" stop="20250303031100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Leganés - Getafe</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285521" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303031100 +0100" stop="20250303032300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285483" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303032300 +0100" stop="20250303033500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Mallorca - Alavés</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285718" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303033500 +0100" stop="20250303033900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Cartagena - Eibar</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291475" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303033900 +0100" stop="20250303034400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Castellón - Burgos</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291288" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303034400 +0100" stop="20250303034800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Huesca - Racing Ferrol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291527" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303034800 +0100" stop="20250303035200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Zaragoza - Sporting</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291691" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303035200 +0100" stop="20250303035700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Almería - Málaga</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291228" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303035700 +0100" stop="20250303040100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Córdoba - Granada</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291360" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303040100 +0100" stop="20250303040500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Oviedo - Deportivo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291627" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303040500 +0100" stop="20250303040900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Albacete - Cádiz</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español. Votos: 1.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291188" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303040900 +0100" stop="20250303042100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Eldense - Levante</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291457" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303042100 +0100" stop="20250303061100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Leganés - Getafe T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Cinco partidos seguidos sin ganar han vuelto a acercar al CD Leganés a la zona de peligro, mientras que el Getafe CF sigue cerca de los puestos europeos a pesar de sufrir su primera derrota de 2025 en la última jornada. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282430" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303061100 +0100" stop="20250303080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Mallorca - Alavés T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El valioso empate conseguido en Sevilla en la última jornada mantiene al RCD Mallorca en la carrera por entrar en competiciones europeas. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282551" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303080000 +0100" stop="20250303090000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303090000 +0100" stop="20250303105000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Osasuna - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · La progresión de CA Osasuna se ha visto frenada en las últimas tres jornadas, en las que los Rojillos han sido incapaces de ganar. Enfrente estará un Valencia CF necesitado de puntos para salir cuanto antes del descenso. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303105000 +0100" stop="20250303110200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285810" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303110200 +0100" stop="20250303111400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303111400 +0100" stop="20250303112600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285704" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303112600 +0100" stop="20250303113800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303113800 +0100" stop="20250303115000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285461" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303115000 +0100" stop="20250303120200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Leganés - Getafe</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285521" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303120200 +0100" stop="20250303121400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285483" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303121400 +0100" stop="20250303122600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Mallorca - Alavés</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285718" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303122600 +0100" stop="20250303123800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Osasuna - Valencia</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285690" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303123800 +0100" stop="20250303124200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Cartagena - Eibar</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291475" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303124200 +0100" stop="20250303124600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Castellón - Burgos</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291288" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303124600 +0100" stop="20250303125000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Huesca - Racing Ferrol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291527" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303125000 +0100" stop="20250303125400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Zaragoza - Sporting</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291691" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303125400 +0100" stop="20250303125800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Almería - Málaga</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291228" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303125800 +0100" stop="20250303130200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Córdoba - Granada</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291360" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303130200 +0100" stop="20250303130600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Oviedo - Deportivo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291627" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303130600 +0100" stop="20250303131000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Albacete - Cádiz</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español. Votos: 1.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291188" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303131000 +0100" stop="20250303131400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Eldense - Levante</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291457" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303131400 +0100" stop="20250303133300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Racing - Elche</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291609" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303133300 +0100" stop="20250303152300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Isco Alarcón ha vuelto a su mejor nivel y el Real Betis está de nuevo en la lucha por Europa. Enfrente tendrá a un Real Madrid obligado a ganar para no perder comba en la carrera por el título, Votos: 101.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4356344" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303152300 +0100" stop="20250303162300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303162300 +0100" stop="20250303181300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303181300 +0100" stop="20250303182500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285810" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303182500 +0100" stop="20250303183700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303183700 +0100" stop="20250303184900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285704" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303184900 +0100" stop="20250303190100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303190100 +0100" stop="20250303191300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285461" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303191300 +0100" stop="20250303192500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Leganés - Getafe</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285521" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303192500 +0100" stop="20250303193700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285483" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303193700 +0100" stop="20250303194900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Mallorca - Alavés</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285718" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303194900 +0100" stop="20250303201000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Osasuna - Valencia</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285690" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303201000 +0100" stop="20250303205000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Villarreal - Espanyol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Previa Liga Española. 1ª División.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303205000 +0100" stop="20250303230300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303230300 +0100" stop="20250303234000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Villarreal - Espanyol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Postpartido Liga.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250303234000 +0100" stop="20250304001000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304001000 +0100" stop="20250304001400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Cartagena - Eibar</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291475" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304001400 +0100" stop="20250304001800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Castellón - Burgos</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291288" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304001800 +0100" stop="20250304002200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Huesca - Racing Ferrol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291527" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304002200 +0100" stop="20250304002600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Zaragoza - Sporting</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291691" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304002600 +0100" stop="20250304003000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Almería - Málaga</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291228" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304003000 +0100" stop="20250304003400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Córdoba - Granada</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291360" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304003400 +0100" stop="20250304003800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Oviedo - Deportivo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291627" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304003800 +0100" stop="20250304004200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Albacete - Cádiz</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español. Votos: 1.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291188" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304004200 +0100" stop="20250304004600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Eldense - Levante</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291457" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304004600 +0100" stop="20250304010000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Racing - Elche</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291609" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304010000 +0100" stop="20250304025000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304025000 +0100" stop="20250304032100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845309" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304032100 +0100" stop="20250304052000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304052000 +0100" stop="20250304053200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285810" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304053200 +0100" stop="20250304054400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304054400 +0100" stop="20250304055600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285704" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304055600 +0100" stop="20250304060800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Barcelona - Real Sociedad</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304060800 +0100" stop="20250304062000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285461" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304062000 +0100" stop="20250304063200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Leganés - Getafe</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285521" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304063200 +0100" stop="20250304064400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285483" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304064400 +0100" stop="20250304065600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Mallorca - Alavés</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285718" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304065600 +0100" stop="20250304070800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 26: Osasuna - Valencia</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285690" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304070800 +0100" stop="20250304071200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Cartagena - Eibar</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291475" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304071200 +0100" stop="20250304071600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Castellón - Burgos</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291288" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304071600 +0100" stop="20250304072000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Huesca - Racing Ferrol</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291527" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304072000 +0100" stop="20250304072400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Zaragoza - Sporting</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291691" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304072400 +0100" stop="20250304072800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Almería - Málaga</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291228" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304072800 +0100" stop="20250304073200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Córdoba - Granada</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291360" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304073200 +0100" stop="20250304073600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Oviedo - Deportivo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291627" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304073600 +0100" stop="20250304074000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Albacete - Cádiz</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español. Votos: 1.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291188" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304074000 +0100" stop="20250304074400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Eldense - Levante</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291457" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304074400 +0100" stop="20250304080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 29: Racing - Elche</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4291609" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304080000 +0100" stop="20250304095000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Valladolid - Las Palmas</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Real Valladolid afronta la primera de las 13 finales que le quedan para salvar la categoría precisamente contra el equipo que ahora mismo marca la salvación, la UD Las Palmas. Votos: 21.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282617" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304095000 +0100" stop="20250304105000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304105000 +0100" stop="20250304112000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304112000 +0100" stop="20250304115000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 15.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845308" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304115000 +0100" stop="20250304122000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304122000 +0100" stop="20250304125000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845309" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304125000 +0100" stop="20250304132000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3491948" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304132000 +0100" stop="20250304135000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Aboubacar Bassinga</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3515822" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304135000 +0100" stop="20250304154000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304154000 +0100" stop="20250304161000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304161000 +0100" stop="20250304180000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Isco Alarcón ha vuelto a su mejor nivel y el Real Betis está de nuevo en la lucha por Europa. Enfrente tendrá a un Real Madrid obligado a ganar para no perder comba en la carrera por el título, Votos: 101.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4356344" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304180000 +0100" stop="20250304190000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304190000 +0100" stop="20250304193000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304193000 +0100" stop="20250304200000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304200000 +0100" stop="20250304203000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304203000 +0100" stop="20250304212500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304212500 +0100" stop="20250304222000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304222000 +0100" stop="20250305001000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305001000 +0100" stop="20250305003000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305003000 +0100" stop="20250305022000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Girona - Celta</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Girona FC y RC Celta garantizan fútbol ofensivo en Montililvi en un choque clave para ambos si quieren seguir metidos en la lucha por los puestos europeos. Votos: 4.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282502" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305022000 +0100" stop="20250305025000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305025000 +0100" stop="20250305044000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Tres puntos separan a Rayo y Sevilla en la clasificación, con ventaja para el conjunto vallecano. Los de Míchel quieren afianzarse en zona europea y poner tierra de por medio con un rival directo. A los hispalenses solo les vale ganar. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282543" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305044000 +0100" stop="20250305051000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305051000 +0100" stop="20250305070000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Leganés - Getafe T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Cinco partidos seguidos sin ganar han vuelto a acercar al CD Leganés a la zona de peligro, mientras que el Getafe CF sigue cerca de los puestos europeos a pesar de sufrir su primera derrota de 2025 en la última jornada. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282430" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305070000 +0100" stop="20250305073000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305073000 +0100" stop="20250305080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305080000 +0100" stop="20250305085500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305085500 +0100" stop="20250305095000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305095000 +0100" stop="20250305102000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305102000 +0100" stop="20250305105000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305105000 +0100" stop="20250305124000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305124000 +0100" stop="20250305134000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DeportePlus+ con Juanma Castaño T24/25 E27</title>
+    <sub-title lang="es">TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4338031" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305134000 +0100" stop="20250305141000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305141000 +0100" stop="20250305160000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Tres puntos separan a Rayo y Sevilla en la clasificación, con ventaja para el conjunto vallecano. Los de Míchel quieren afianzarse en zona europea y poner tierra de por medio con un rival directo. A los hispalenses solo les vale ganar. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282543" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305160000 +0100" stop="20250305163000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305163000 +0100" stop="20250305172500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305172500 +0100" stop="20250305182000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305182000 +0100" stop="20250305201000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305201000 +0100" stop="20250305204000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305204000 +0100" stop="20250305211000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305211000 +0100" stop="20250305214000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305214000 +0100" stop="20250305233000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Isco Alarcón ha vuelto a su mejor nivel y el Real Betis está de nuevo en la lucha por Europa. Enfrente tendrá a un Real Madrid obligado a ganar para no perder comba en la carrera por el título, Votos: 101.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4356344" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305233000 +0100" stop="20250306002500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306002500 +0100" stop="20250306012000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306012000 +0100" stop="20250306015000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306015000 +0100" stop="20250306022000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306022000 +0100" stop="20250306041000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306041000 +0100" stop="20250306044000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Dana</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 2.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845310" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306044000 +0100" stop="20250306051000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845309" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306051000 +0100" stop="20250306070000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Mallorca - Alavés T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El valioso empate conseguido en Sevilla en la última jornada mantiene al RCD Mallorca en la carrera por entrar en competiciones europeas. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282551" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306070000 +0100" stop="20250306073000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3491948" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306073000 +0100" stop="20250306080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Aboubacar Bassinga</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3515822" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306080000 +0100" stop="20250306095000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Leganés - Getafe T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Cinco partidos seguidos sin ganar han vuelto a acercar al CD Leganés a la zona de peligro, mientras que el Getafe CF sigue cerca de los puestos europeos a pesar de sufrir su primera derrota de 2025 en la última jornada. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282430" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306095000 +0100" stop="20250306102000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306102000 +0100" stop="20250306105000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306105000 +0100" stop="20250306114500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306114500 +0100" stop="20250306133500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Betis - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Isco Alarcón ha vuelto a su mejor nivel y el Real Betis está de nuevo en la lucha por Europa. Enfrente tendrá a un Real Madrid obligado a ganar para no perder comba en la carrera por el título, Votos: 101.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4356344" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306133500 +0100" stop="20250306143000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306143000 +0100" stop="20250306150000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306150000 +0100" stop="20250306153000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306153000 +0100" stop="20250306155000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306155000 +0100" stop="20250306174000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Osasuna - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · La progresión de CA Osasuna se ha visto frenada en las últimas tres jornadas, en las que los Rojillos han sido incapaces de ganar. Enfrente estará un Valencia CF necesitado de puntos para salir cuanto antes del descenso. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306174000 +0100" stop="20250306181000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306181000 +0100" stop="20250306184000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306184000 +0100" stop="20250306191000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306191000 +0100" stop="20250306210000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306210000 +0100" stop="20250306213000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306213000 +0100" stop="20250306215000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250306215000 +0100" stop="20250306234000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306234000 +0100" stop="20250307001000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307001000 +0100" stop="20250307004000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307004000 +0100" stop="20250307023000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Barcelona - Real Sociedad T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El FC Barcelona vuelve a enfrentarse a uno de los pocos equipos que esta temporada le han superado, la Real Sociedad, con la obligación de ganar para seguir líder de LALIGA EA SPORTS. Votos: 66.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282486" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307023000 +0100" stop="20250307032500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307032500 +0100" stop="20250307042000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307042000 +0100" stop="20250307045000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307045000 +0100" stop="20250307052000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307052000 +0100" stop="20250307054000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307054000 +0100" stop="20250307061000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307061000 +0100" stop="20250307080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Tres puntos separan a Rayo y Sevilla en la clasificación, con ventaja para el conjunto vallecano. Los de Míchel quieren afianzarse en zona europea y poner tierra de por medio con un rival directo. A los hispalenses solo les vale ganar. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282543" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307080000 +0100" stop="20250307083000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307083000 +0100" stop="20250307092500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307092500 +0100" stop="20250307094500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307094500 +0100" stop="20250307113500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307113500 +0100" stop="20250307120500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307120500 +0100" stop="20250307123500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307123500 +0100" stop="20250307130500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307130500 +0100" stop="20250307140000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307140000 +0100" stop="20250307155000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Copa del Rey T24/25 · Semifinales: Real Sociedad - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Dos de los equipos con el distintivo de realeza, Real Sociedad y Real Madrid, pelean por un puesto en la final de la Copa más regia del fútbol español. El encuentro de ida, en San Sebastián, puede ser clave en el decurso de la eliminatoria. Votos: 68.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4351834" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307155000 +0100" stop="20250307162000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307162000 +0100" stop="20250307181000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: At. Madrid - Athletic</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El tercer clasificado, el Atlético de Madrid, y el cuarto, el Athletic Club, miden sus fuerzas en un duelo decisivo. Votos: 56.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282392" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307181000 +0100" stop="20250307184000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307184000 +0100" stop="20250307191000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307191000 +0100" stop="20250307210000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Copa del Rey T24/25 · Semifinales: Barcelona - Atlético de Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Eliminatoria de alto voltaje la que mide a Barcelona y Atlético de Madrid por un puesto en la final de la Copa del Rey. Esta es la única ronda de la competición que se disputa a doble partido. El encuentro de ida se celebra en Montjuïc. Votos: 116.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4351830" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307210000 +0100" stop="20250307212000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250307212000 +0100" stop="20250307215000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307215000 +0100" stop="20250307222000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307222000 +0100" stop="20250307225000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3491948" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307225000 +0100" stop="20250307232000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Aboubacar Bassinga</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 8.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3515822" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307232000 +0100" stop="20250307235000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845309" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307235000 +0100" stop="20250308002000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 15.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845308" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308002000 +0100" stop="20250308005000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Dana</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 2.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845310" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308005000 +0100" stop="20250308012000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308012000 +0100" stop="20250308030500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 26: Rayo - Sevilla</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Tres puntos separan a Rayo y Sevilla en la clasificación, con ventaja para el conjunto vallecano. Los de Míchel quieren afianzarse en zona europea y poner tierra de por medio con un rival directo. A los hispalenses solo les vale ganar. Votos: 10.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282543" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308030500 +0100" stop="20250308032500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308032500 +0100" stop="20250308035500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308035500 +0100" stop="20250308054500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Villarreal - Espanyol T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El Villarreal CF sigue apretando para estar en el TOP4 y esta semana tiene una oportunidad de oro para acercarse al objetivo frente al Espanyol.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282625" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308054500 +0100" stop="20250308061500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308061500 +0100" stop="20250308080000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 26: Osasuna - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · La progresión de CA Osasuna se ha visto frenada en las últimas tres jornadas, en las que los Rojillos han sido incapaces de ganar. Enfrente estará un Valencia CF necesitado de puntos para salir cuanto antes del descenso. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308080000 +0100" stop="20250308082800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308082800 +0100" stop="20250308101800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Copa del Rey T24/25 · Semifinales: Real Sociedad - Real Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Dos de los equipos con el distintivo de realeza, Real Sociedad y Real Madrid, pelean por un puesto en la final de la Copa más regia del fútbol español. El encuentro de ida, en San Sebastián, puede ser clave en el decurso de la eliminatoria. Votos: 68.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4351834" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308101800 +0100" stop="20250308104800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308104800 +0100" stop="20250308123600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Copa del Rey T24/25 · Semifinales: Barcelona - Atlético de Madrid</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Eliminatoria de alto voltaje la que mide a Barcelona y Atlético de Madrid por un puesto en la final de la Copa del Rey. Esta es la única ronda de la competición que se disputa a doble partido. El encuentro de ida se celebra en Montjuïc. Votos: 116.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4351830" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308123600 +0100" stop="20250308130600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Crónicas de LALIGA T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3944295" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308130600 +0100" stop="20250308140100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 29</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3489844" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308140100 +0100" stop="20250308145600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 26</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943571" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308145600 +0100" stop="20250308152500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Show T24/25 · Jornada 27</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308152500 +0100" stop="20250308160900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Alavés - Villarreal</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Previa Liga Española. 1ª División.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308160900 +0100" stop="20250308181500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 27: Alavés - Villarreal T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282460" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308181500 +0100" stop="20250308185500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Alavés - Villarreal</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Postpartido Liga.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308185500 +0100" stop="20250308192500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308192500 +0100" stop="20250308194500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308194500 +0100" stop="20250308201500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308201500 +0100" stop="20250308204500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308204500 +0100" stop="20250308211500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308211500 +0100" stop="20250308214500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA VS T2 · Joan Capdevila y Gemma Mengual</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4295779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308214500 +0100" stop="20250308221500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E5</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 13.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841313" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308221500 +0100" stop="20250308224500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841312" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308224500 +0100" stop="20250308231500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308231500 +0100" stop="20250308232800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Celta - Leganés</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308232800 +0100" stop="20250308234100 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Alavés - Villarreal</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285565" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308234100 +0100" stop="20250308235400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Valencia - Valladolid</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285798" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308235400 +0100" stop="20250308235800 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Eibar - Almería</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304438" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308235800 +0100" stop="20250309000300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Deportivo - Córdoba</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304436" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309000300 +0100" stop="20250309000700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Mirandés - Oviedo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304434" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309000700 +0100" stop="20250309001200 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Elche - Castellón</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304440" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309001200 +0100" stop="20250309001700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Sporting - Racing</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304448" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309001700 +0100" stop="20250309020700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">DIRECTO Jornada 27: Alavés - Villarreal T24/25 · LALIGA EA SPORTS</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4282460" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309020700 +0100" stop="20250309023700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA World T24/25 E30</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337328" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309023700 +0100" stop="20250309025700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E7</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4137599" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309025700 +0100" stop="20250309032700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Talking Football T24/25 · Isco Alarcón</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3845311" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309032700 +0100" stop="20250309035700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Power T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 6.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3839646" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309035700 +0100" stop="20250309042700 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">LALIGA Best XI T24/25 E6</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 5.
+· País: España</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLIGBARP3841314" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309042700 +0100" stop="20250309044000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Celta - Leganés</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285533" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309044000 +0100" stop="20250309045300 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Alavés - Villarreal</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285565" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309045300 +0100" stop="20250309050600 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA EA Sports T24/25 · Jornada 27: Valencia - Valladolid</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4285798" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309050600 +0100" stop="20250309051000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Eibar - Almería</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304438" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309051000 +0100" stop="20250309051500 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Deportivo - Córdoba</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304436" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309051500 +0100" stop="20250309051900 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Mirandés - Oviedo</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304434" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309051900 +0100" stop="20250309052400 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Elche - Castellón</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304440" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309052400 +0100" stop="20250309053000 +0100" channel="LA LIGA 1 ᴴᴰ">
+    <title lang="es">Resúmenes LALIGA HyperMotion T24/25 · Jornada 30: Sporting - Racing</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fútbol · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category lang="es">Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4304448" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
 </tv>
