@@ -1,7 +1,7 @@
 La 1 HD,ES: LA 1 SD
 La 1 HD,LA 1 HD
 La 2,ES: LA 2 HD
-Antena 3 HD,ES: ANTENA 3 HD
+Antena 3 HD,"ES: ANTENA 3 ᴴᴰ"
 Cuatro HD,ES: CUATRO HD
 Telecinco HD
 La Sexta HD
