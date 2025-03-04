@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 04/03/2025 07:52" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 04/03/2025 07:58" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 SD">
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -23,6 +23,10 @@
   <channel id="ES: CUATRO HD">
     <display-name>ES: CUATRO HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" />
+  </channel>
+  <channel id="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <display-name>ES: DAZN F1 RAW ᵃᵐᶻ</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
   </channel>
   <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="ES: LA 1 SD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
@@ -12711,6 +12715,1150 @@
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303081000 +0100" stop="20250303102000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Canadá: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 28.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4101714" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303102000 +0100" stop="20250303143000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 1. Mañana</title>
+    <sub-title lang="es">2025 | TP | ★4.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 3.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303143000 +0100" stop="20250303164000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Estados Unidos: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 32.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4306941" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303164000 +0100" stop="20250303170500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Estados Unidos</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 10.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2108181V3255053" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303170500 +0100" stop="20250303211500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 1. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 3.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303211500 +0100" stop="20250303220500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">The Operator</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · The Operator Votos: 10.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2161772V3887476" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303220500 +0100" stop="20250303233000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250303233000 +0100" stop="20250304023000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Brasil: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 21.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4312584" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304023000 +0100" stop="20250304030000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Brasil</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 10.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2121083V3255055" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304030000 +0100" stop="20250304050000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Italia: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 87.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3943548" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304050000 +0100" stop="20250304070000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Francia: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 56.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4013407" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304070000 +0100" stop="20250304091500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Azerbaiyán: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 163.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3919048" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304091500 +0100" stop="20250304111000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de España: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 78.
+· País: España</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4104725" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304111000 +0100" stop="20250304152500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 2. Mañana</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 6.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304152500 +0100" stop="20250304160500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Gearbox T2024 E10</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2219291V3298649" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250304160500 +0100" stop="20250304173000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304173000 +0100" stop="20250304214500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 2. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 1.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250304214500 +0100" stop="20250305000500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de México: Carrera</title>
+    <sub-title lang="es">TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 23.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4308488" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305000500 +0100" stop="20250305021300 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Baréin: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · La Fórmula 1 regresa con el Gran Premio de Baréin en una de las temporadas con más incógnitas por la implantación de un nuevo reglamento que supone la mayor revolución de los últimos tiempos en este deporte. Votos: 82.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3991535" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305021300 +0100" stop="20250305041800 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Estados Unidos: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 77.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3955376" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305041800 +0100" stop="20250305061500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Austria: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 49.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4112346" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305061500 +0100" stop="20250305081500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Brasil: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 76.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3955388" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305081500 +0100" stop="20250305121500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 3. Mañana</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305121500 +0100" stop="20250305142500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Las Vegas: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 30.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4320126" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305142500 +0100" stop="20250305145000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Las Vegas</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 10.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2139064V3255056" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305145000 +0100" stop="20250305153500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">The Operator</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · The Operator Votos: 10.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2161772V3887476" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305153500 +0100" stop="20250305160000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">True Driver T2024 · Trazado por Tilke</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 9.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242837" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305160000 +0100" stop="20250305200000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 3. Tarde</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250305200000 +0100" stop="20250305212500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305212500 +0100" stop="20250305215500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Gearbox T2024 E5</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos. Votos: 8.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2040439V3298644" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305215500 +0100" stop="20250306000000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Catar: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 26.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4321302" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306000000 +0100" stop="20250306003000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Catar</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 8.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2144675V3255058" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306003000 +0100" stop="20250306023000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Arabia Saudi: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · El piloto Mexicano de Red Bull, Checo Pérez, saldrá desde la primera posición en el Gran Premio de Arabia Saudí consiguiendo la primera pole de su carrera. Saldrá por delante de los dos Ferrari, Leclerc y Sainz, y de su compañero de equipo Verstappen. Votos: 83.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3991678" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306023000 +0100" stop="20250306043000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Australia: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Tercera carrera de la temporada 2022 en el trazado de Albert Park, Melbourne, desde el 8 al 10 de abril. Charles Leclerc y Max Verstappen se han llevado las dos primeras carreras del curso en uno de los inicios más igualados que se recuerdan. Votos: 37.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3995408" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306043000 +0100" stop="20250306063000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Gran Bretaña: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 44.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4112382" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306063000 +0100" stop="20250306083500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Abu Dabi: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 15.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4325159" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306083500 +0100" stop="20250306090500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Abu Dabi</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 10.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2150663V3255057" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306090500 +0100" stop="20250306110000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Catar: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 68.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3964243" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306110000 +0100" stop="20250306122500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306122500 +0100" stop="20250306131100 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">The Operator</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · The Operator Votos: 10.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2161772V3887476" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306131100 +0100" stop="20250306151100 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin. Votos: 50.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4183193" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306151100 +0100" stop="20250306153300 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · Baréin</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 31.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1928705V3255035" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306153300 +0100" stop="20250306174300 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Hungría: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 49.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4113425" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306174300 +0100" stop="20250306215300 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 1. Mañana</title>
+    <sub-title lang="es">2025 | TP | ★4.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 3.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306215300 +0100" stop="20250307002100 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Box, Box Gala 75 Aniversario F1</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · BOX, BOX Gala 75 Aniversario F1 Votos: 9.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2209425V3934415" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307002100 +0100" stop="20250307042700 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 1. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 3.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307042700 +0100" stop="20250307062000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Arabia Saudi: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 39.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4183213" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307062000 +0100" stop="20250307083000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Abu Dabi: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 107.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3955685" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307083000 +0100" stop="20250307101500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Japón: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 42.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4027740" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307101500 +0100" stop="20250307105000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Gearbox T2024 E6</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos. Votos: 13.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2065995V3298645" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307105000 +0100" stop="20250307124500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 34.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4113340" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307124500 +0100" stop="20250307131000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">True Driver T2024 · La década híbrida</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 20.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242881" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307131000 +0100" stop="20250307133000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">F1 de Manual T2024 · Campos</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Campos Votos: 7.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2025575V3407012" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307133000 +0100" stop="20250307140000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">True Driver T2024 · La libreta de Adrian Newey</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Adrian Newey es el ingeniero que ha llenado con sus diseños las vitrinas de trofeos en Williams, McLaren y Red Bull. Un genio de la F1 moderna que se resiste a dejar de crear coches de carreras. Votos: 15.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242903" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307140000 +0100" stop="20250307181500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 2. Mañana</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 6.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307181500 +0100" stop="20250307201500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Australia: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 49.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4182841" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250307201500 +0100" stop="20250308003000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 2. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 1.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308003000 +0100" stop="20250308024500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Miami: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · La Formula 1 llega por primera vez a Florida para la disputa de la quinta prueba en el Autódromo Internacional de Miami. Un trazado alrededor del Hard Rock Stadium. Charles Leclerc, líder del campeonato seguido de Verstappen. Votos: 38.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3995452" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308024500 +0100" stop="20250308044000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Estiria: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 85.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3928670" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308044000 +0100" stop="20250308064500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Emilia Romagna: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 35.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3995620" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308064500 +0100" stop="20250308071500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">True Driver T2024 · Trazado por Tilke</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 9.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242837" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308071500 +0100" stop="20250308094000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
+    <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 51.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4113397" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308094000 +0100" stop="20250308110500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308110500 +0100" stop="20250308131000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 50.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4195079" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308131000 +0100" stop="20250308133000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">True Driver T2024 · F1 Academy, las mujeres más rápidas</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 13.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242837" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308133000 +0100" stop="20250308173000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 3. Mañana</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250308173000 +0100" stop="20250308200000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Box, Box Gala 75 Aniversario F1</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · BOX, BOX Gala 75 Aniversario F1 Votos: 9.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2209425V3934415" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250308200000 +0100" stop="20250309000000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 3. Tarde</title>
+    <sub-title lang="es">2025 | TP</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309000000 +0100" stop="20250309021500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de China: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 25.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4200440" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309021500 +0100" stop="20250309024500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Código F1 T2024 · China</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 12.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1967784V3255039" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309024500 +0100" stop="20250309051000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Mónaco: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 44.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3995438" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309051000 +0100" stop="20250309071500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Francia: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 86.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3921807" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309071500 +0100" stop="20250309091500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Portugal: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 164.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3911110" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309091500 +0100" stop="20250309095300 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Especiales F1 T2024 · Fernando. Revelado</title>
+    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Fotografías que recuerdan historias, anécdotas, momentos difíciles y que nos llevan a otras épocas. A través de las imágenes repasamos con Fernando una carrera de éxito pero también de sufrimiento. Votos: 22.
+</desc>
+    <category lang="es">Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1912907V3255067" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309095300 +0100" stop="20250309140000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 1. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 3.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309140000 +0100" stop="20250309162500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Box, Box Gala 75 Aniversario F1</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · BOX, BOX Gala 75 Aniversario F1 Votos: 9.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2209425V3934415" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309162500 +0100" stop="20250309204000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Test de Pretemporada: Test Baréin. Día 2. Tarde</title>
+    <sub-title lang="es">2025 | TP | ★10.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca. Votos: 1.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4353473" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309204000 +0100" stop="20250309213000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">The Operator</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · The Operator Votos: 10.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2161772V3887476" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309213000 +0100" stop="20250309221500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Gearbox T2024 E10</title>
+    <sub-title lang="es">2024 | TP</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2219291V3298649" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250309221500 +0100" stop="20250309234000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Decoded: Alonso</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Fórmula 1 · Decoded: Alonso Votos: 38.
+</desc>
+    <category lang="es">Deportes, Fórmula 1</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2183050V3906471" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250309234000 +0100" stop="20250310014500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 50.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4203916" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250310014500 +0100" stop="20250310034500 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Rusia: Carrera</title>
+    <sub-title lang="es">2021 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 82.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3943536" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250310034500 +0100" stop="20250310055000 +0100" channel="ES: DAZN F1 RAW ᵃᵐᶻ">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Canadá: Carrera</title>
+    <sub-title lang="es">2022 | TP | ★8.0/10</sub-title>
+    <desc lang="es"> · Deportes/Motor · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 52.
+</desc>
+    <category lang="es">Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4013373" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
     </star-rating>
   </programme>
 </tv>
