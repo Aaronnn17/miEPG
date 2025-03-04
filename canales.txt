@@ -4,3 +4,4 @@ La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P,https://github.com/davidmuma/picons_dobleM/blob
 La 2,ES: LA 2 HD
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ
 Cuatro HD,ES: CUATRO HD
+Dazn F1,ES: DAZN F1 RAW ᵃᵐᶻ
