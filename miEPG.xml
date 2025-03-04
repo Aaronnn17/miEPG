@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 03/03/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 04/03/2025 07:47" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1 SD">
     <display-name>ES: LA 1 SD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -12,8 +12,8 @@
     <display-name>ES: LA 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
   </channel>
-  <channel id="ES: ANTENA 3 HD">
-    <display-name>ES: ANTENA 3 HD</display-name>
+  <channel id=""ES: ANTENA 3 ᴴᴰ"">
+    <display-name>"ES: ANTENA 3 ᴴᴰ"</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" />
   </channel>
   <channel id="ES: CUATRO HD">
@@ -30,8 +30,8 @@
   </channel>
   <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="ES: LA 1 SD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+    <sub-title lang="es">2025 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 1.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
@@ -39,6 +39,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303104000 +0100" stop="20250303140000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Mañaneros T2 E133</title>
@@ -127,8 +130,8 @@
   </programme>
   <programme start="20250303161500 +0100" stop="20250303170500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Valle Salvaje T1 E108</title>
-    <sub-title lang="es">2024 | ⑯</sub-title>
-    <desc lang="es"> · Series/Telenovela · Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores.
+    <sub-title lang="es">2024 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Series/Telenovela · Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores. Votos: 1.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
@@ -137,6 +140,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303170500 +0100" stop="20250303173500 +0100" channel="ES: LA 1 SD">
     <title lang="es">Salón de té La Moderna T1 E361</title>
@@ -235,8 +241,8 @@
   </programme>
   <programme start="20250303214000 +0100" stop="20250303225000 +0100" channel="ES: LA 1 SD">
     <title lang="es">La revuelta T1 E92</title>
-    <sub-title lang="es">2025 | ⑫</sub-title>
-    <desc lang="es"> · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+    <sub-title lang="es">2025 | ⑫ | ★2.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 1.
 · País: España
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
@@ -245,11 +251,14 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303225000 +0100" stop="20250304012000 +0100" channel="ES: LA 1 SD">
     <title lang="es">Bake Off: Famosos al horno T2 E9</title>
-    <sub-title lang="es">2025 | ⑦ | ★10.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 1.
+    <sub-title lang="es">2025 | ⑦ | ★2.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 10.
 · País: España
 · Presenta: Paula Vázquez.
 · Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
@@ -259,7 +268,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>2.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250304012000 +0100" stop="20250304022000 +0100" channel="ES: LA 1 SD">
@@ -1830,8 +1839,8 @@
   </programme>
   <programme start="20250303075000 +0100" stop="20250303104000 +0100" channel="LA 1 HD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E42</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
+    <sub-title lang="es">2025 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día. Votos: 1.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
@@ -1839,6 +1848,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303104000 +0100" stop="20250303140000 +0100" channel="LA 1 HD">
     <title lang="es">Mañaneros T2 E133</title>
@@ -1927,8 +1939,8 @@
   </programme>
   <programme start="20250303161500 +0100" stop="20250303170500 +0100" channel="LA 1 HD">
     <title lang="es">Valle Salvaje T1 E108</title>
-    <sub-title lang="es">2024 | ⑯</sub-title>
-    <desc lang="es"> · Series/Telenovela · Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores.
+    <sub-title lang="es">2024 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Series/Telenovela · Tras caer en la trampa de Eustaquio, la vida de Sol corre peligro, pero Bárbara y Leonardo aparecen dispuestos a salvarle, jugándose la vida. Los remordimientos de Rafael por la traición hacia su hermano son cada vez mayores. Votos: 1.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
 · Productora: Bambú Producciones.</desc>
@@ -1937,6 +1949,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303170500 +0100" stop="20250303173500 +0100" channel="LA 1 HD">
     <title lang="es">Salón de té La Moderna T1 E361</title>
@@ -2035,8 +2050,8 @@
   </programme>
   <programme start="20250303214000 +0100" stop="20250303225000 +0100" channel="LA 1 HD">
     <title lang="es">La revuelta T1 E92</title>
-    <sub-title lang="es">2025 | ⑫</sub-title>
-    <desc lang="es"> · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
+    <sub-title lang="es">2025 | ⑫ | ★2.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Entrevista · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa. Votos: 1.
 · País: España
 · Presenta: David Broncano.
 · Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
@@ -2045,11 +2060,14 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303225000 +0100" stop="20250304012000 +0100" channel="LA 1 HD">
     <title lang="es">Bake Off: Famosos al horno T2 E9</title>
-    <sub-title lang="es">2025 | ⑦ | ★10.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 1.
+    <sub-title lang="es">2025 | ⑦ | ★2.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Ana Boyer, ganadora de la anterior edición de Bake Off, visita a los pasteleros en un día en el que cocinarán en parejas. Tendrán que hacer la Victoria Sponge, la tarta de cerveza negra, tarta de Bake Off. Votos: 10.
 · País: España
 · Presenta: Paula Vázquez.
 · Productora: Radio Televisión Española (RTVE), BoxFish.</desc>
@@ -2059,7 +2077,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>2.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250304012000 +0100" stop="20250304022000 +0100" channel="LA 1 HD">
@@ -3853,8 +3871,8 @@
   </programme>
   <programme start="20250303154000 +0100" stop="20250303162500 +0100" channel="ES: LA 2 HD">
     <title lang="es">Saber y ganar T2025 E44</title>
-    <sub-title lang="es">2025 | TP</sub-title>
-    <desc lang="es"> · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí.
+    <sub-title lang="es">2025 | TP | ★2.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Concurso · Concurso cultural de preguntas con tres participantes, que se tienen que eliminar entre sí. Votos: 1.
 · País: España
 · Presenta: Jordi Hurtado.
 · Dirección: Sergi Schaaff.
@@ -3864,6 +3882,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303162500 +0100" stop="20250303171500 +0100" channel="ES: LA 2 HD">
     <title lang="es">El hotel cactus</title>
@@ -5395,7 +5416,7 @@
   <programme start="20250306190000 +0100" stop="20250306210000 +0100" channel="ES: LA 2 HD">
     <title lang="es">DIRECTO Semifinales: Real Madrid - Barcelona T24/25 · Copa de la Reina</title>
     <sub-title lang="es">2025 | TP</sub-title>
-    <desc lang="es"> · Deportes/Fútbol · La Copa de la Reina es el torneo del KO del fútbol femenino español. Todas las eliminatorias se deciden a partido único, incluida la final. El Barcelona, defensor del título, parece el rival a batir.
+    <desc lang="es"> · Deportes/Fútbol · La Copa de la Reina es el torneo del KO del fútbol femenino español. Todas las eliminatorias se deciden a partido único, incluida la final.
 · País: España</desc>
     <category lang="es">Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3946025" />
@@ -6881,7 +6902,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303061500 +0100" stop="20250303085500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303061500 +0100" stop="20250303085500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Las noticias de la mañana</title>
     <sub-title lang="es">2014 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 560.
@@ -6893,10 +6914,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303085500 +0100" stop="20250303132000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303085500 +0100" stop="20250303132000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Espejo Público T19 E4464</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
+    <sub-title lang="es">2025 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad. Votos: 1.
 · País: España
 · Dirección: Julián Nieto.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
@@ -6904,8 +6925,11 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250303132000 +0100" stop="20250303134500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303132000 +0100" stop="20250303134500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2897</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -6918,7 +6942,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250303134500 +0100" stop="20250303150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303134500 +0100" stop="20250303150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2025 E4417</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -6930,7 +6954,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250303150000 +0100" stop="20250303153000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303150000 +0100" stop="20250303153000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 1</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 879.
@@ -6942,7 +6966,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303153000 +0100" stop="20250303153500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303153000 +0100" stop="20250303153500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 1</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 409.
@@ -6954,10 +6978,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303153500 +0100" stop="20250303154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303153500 +0100" stop="20250303154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <sub-title lang="es">TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 470.
+    <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 471.
 · País: España
 · Presenta: Roberto Brasero.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -6969,7 +6993,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303154500 +0100" stop="20250303170000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303154500 +0100" stop="20250303170000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sueños de libertad T1 E257</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
@@ -6982,7 +7006,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250303170000 +0100" stop="20250303200000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303170000 +0100" stop="20250303200000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Y ahora, Sonsoles T3 E131</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
@@ -6995,7 +7019,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250303200000 +0100" stop="20250303210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303200000 +0100" stop="20250303210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pasapalabra T4 E1220</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
@@ -7008,7 +7032,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250303210000 +0100" stop="20250303213000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303210000 +0100" stop="20250303213000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 2</title>
     <sub-title lang="es">★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1188.
@@ -7020,7 +7044,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303213000 +0100" stop="20250303213500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303213000 +0100" stop="20250303213500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 2</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 478.
@@ -7032,7 +7056,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303213500 +0100" stop="20250303214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303213500 +0100" stop="20250303214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La previsión de las 9</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 426.
@@ -7044,7 +7068,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250303214500 +0100" stop="20250303225000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303214500 +0100" stop="20250303225000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El hormiguero 3.0 T19 · Nancys Rubias</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Humor · El grupo liderado por Mario Vaquerizo presenta su nuevo single y con ellos charlamos de su gira, así como de la recuperación de Vaquerizo tras su aparatosa caída de hace unos meses durante un concierto.
@@ -7057,7 +7081,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250303225000 +0100" stop="20250304000000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250303225000 +0100" stop="20250304000000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Renacer T1 E29</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Comedia · Bahar anuncia que se va a divorciar y susurra a su marido que sabe lo de Parla.
@@ -7070,7 +7094,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250304000000 +0100" stop="20250304010500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304000000 +0100" stop="20250304010500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Renacer T1</title>
     <sub-title lang="es">2024 | ⑫ | ★8.0/10</sub-title>
     <desc lang="es"> · Series/Comedia · Bahar abandonó su carrera como médica para dedicarse a su familia, pero cuando una grave enfermedad pone su vida en peligro, descubre la traición de su marido, quien, siendo el único posible donante de hígado, se niega a salvarla. Votos: 16.
@@ -7086,7 +7110,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304010500 +0100" stop="20250304021500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304010500 +0100" stop="20250304021500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Renacer T1</title>
     <sub-title lang="es">2024 | ⑫ | ★8.0/10</sub-title>
     <desc lang="es"> · Series/Comedia · Bahar abandonó su carrera como médica para dedicarse a su familia, pero cuando una grave enfermedad pone su vida en peligro, descubre la traición de su marido, quien, siendo el único posible donante de hígado, se niega a salvarla. Votos: 16.
@@ -7102,7 +7126,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304021500 +0100" stop="20250304030000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304021500 +0100" stop="20250304030000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
@@ -7117,7 +7141,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304030000 +0100" stop="20250304040000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304030000 +0100" stop="20250304040000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -7131,7 +7155,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304040000 +0100" stop="20250304050000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304040000 +0100" stop="20250304050000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 12.
@@ -7145,7 +7169,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304050000 +0100" stop="20250304060000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304050000 +0100" stop="20250304060000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -7159,7 +7183,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304060000 +0100" stop="20250304061500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304060000 +0100" stop="20250304061500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -7173,7 +7197,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304061500 +0100" stop="20250304085500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304061500 +0100" stop="20250304085500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Las noticias de la mañana</title>
     <sub-title lang="es">2014 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
@@ -7185,7 +7209,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304085500 +0100" stop="20250304132000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304085500 +0100" stop="20250304132000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Espejo Público T19 E4465</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
@@ -7197,7 +7221,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250304132000 +0100" stop="20250304134500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304132000 +0100" stop="20250304134500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2898</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -7210,7 +7234,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250304134500 +0100" stop="20250304150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304134500 +0100" stop="20250304150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2025 E4418</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -7222,7 +7246,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250304150000 +0100" stop="20250304153000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304150000 +0100" stop="20250304153000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 1</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
@@ -7234,7 +7258,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304153000 +0100" stop="20250304153500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304153000 +0100" stop="20250304153500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 1</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 402.
@@ -7246,7 +7270,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304153500 +0100" stop="20250304154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304153500 +0100" stop="20250304154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <sub-title lang="es">TP | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
@@ -7261,7 +7285,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304154500 +0100" stop="20250304170000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304154500 +0100" stop="20250304170000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sueños de libertad T1 E258</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
@@ -7274,7 +7298,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250304170000 +0100" stop="20250304200000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304170000 +0100" stop="20250304200000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Y ahora, Sonsoles T3 E132</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
@@ -7287,7 +7311,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250304200000 +0100" stop="20250304210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304200000 +0100" stop="20250304210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pasapalabra T4 E1221</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
@@ -7300,7 +7324,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250304210000 +0100" stop="20250304213000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304210000 +0100" stop="20250304213000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 2</title>
     <sub-title lang="es">★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
@@ -7312,7 +7336,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304213000 +0100" stop="20250304213500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304213000 +0100" stop="20250304213500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 2</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
@@ -7324,7 +7348,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304213500 +0100" stop="20250304214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304213500 +0100" stop="20250304214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La previsión de las 9</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 419.
@@ -7336,7 +7360,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304214500 +0100" stop="20250304225000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304214500 +0100" stop="20250304225000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El hormiguero 3.0 T19 E2140</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Humor · Programa que mezcla la ciencia, la música y la política con el humor.
@@ -7349,7 +7373,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250304225000 +0100" stop="20250305021500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250304225000 +0100" stop="20250305021500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Renacer T1</title>
     <sub-title lang="es">2024 | ⑫ | ★8.0/10</sub-title>
     <desc lang="es"> · Series/Comedia · Bahar abandonó su carrera como médica para dedicarse a su familia, pero cuando una grave enfermedad pone su vida en peligro, descubre la traición de su marido, quien, siendo el único posible donante de hígado, se niega a salvarla. Votos: 16.
@@ -7365,7 +7389,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305021500 +0100" stop="20250305030000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305021500 +0100" stop="20250305030000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 12.
@@ -7380,7 +7404,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305030000 +0100" stop="20250305040000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305030000 +0100" stop="20250305040000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -7394,7 +7418,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305040000 +0100" stop="20250305050000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305040000 +0100" stop="20250305050000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 12.
@@ -7408,7 +7432,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305050000 +0100" stop="20250305060000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305050000 +0100" stop="20250305060000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -7422,7 +7446,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305060000 +0100" stop="20250305061500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305060000 +0100" stop="20250305061500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -7436,7 +7460,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305061500 +0100" stop="20250305085500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305061500 +0100" stop="20250305085500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Las noticias de la mañana</title>
     <sub-title lang="es">2014 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
@@ -7448,7 +7472,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305085500 +0100" stop="20250305132000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305085500 +0100" stop="20250305132000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Espejo Público T19 E4466</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
@@ -7460,7 +7484,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250305132000 +0100" stop="20250305134500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305132000 +0100" stop="20250305134500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2899</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -7473,7 +7497,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250305134500 +0100" stop="20250305150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305134500 +0100" stop="20250305150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2025 E4419</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -7485,7 +7509,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250305150000 +0100" stop="20250305153000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305150000 +0100" stop="20250305153000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 1</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
@@ -7497,7 +7521,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305153000 +0100" stop="20250305153500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305153000 +0100" stop="20250305153500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 1</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 404.
@@ -7509,7 +7533,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305153500 +0100" stop="20250305154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305153500 +0100" stop="20250305154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <sub-title lang="es">TP | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
@@ -7524,7 +7548,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305154500 +0100" stop="20250305170000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305154500 +0100" stop="20250305170000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sueños de libertad T1 E259</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
@@ -7537,7 +7561,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250305170000 +0100" stop="20250305200000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305170000 +0100" stop="20250305200000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Y ahora, Sonsoles T3 E133</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
@@ -7550,7 +7574,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250305200000 +0100" stop="20250305210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305200000 +0100" stop="20250305210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pasapalabra T4 E1222</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
@@ -7563,7 +7587,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250305210000 +0100" stop="20250305213000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305210000 +0100" stop="20250305213000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 2</title>
     <sub-title lang="es">★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
@@ -7575,7 +7599,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305213000 +0100" stop="20250305213500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305213000 +0100" stop="20250305213500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 2</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
@@ -7587,7 +7611,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305213500 +0100" stop="20250305214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305213500 +0100" stop="20250305214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La previsión de las 9</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 421.
@@ -7599,7 +7623,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305214500 +0100" stop="20250305225000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305214500 +0100" stop="20250305225000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El hormiguero 3.0 T19 E2141</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Humor · Programa que mezcla la ciencia, la música y la política con el humor.
@@ -7612,7 +7636,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250305225000 +0100" stop="20250306000200 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250305225000 +0100" stop="20250306000200 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El Capitán en América E8</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Documentales/Viajes · Joaquín Sánchez recorre la Costa Oeste de EE. UU con su mujer, Susana Saborido, y sus dos hijas. Un desafío por cuatro estados, California, Arizona, Utah y Nevada, repleto de retos, risas y confidencias que fortalecerán los lazos familiares.
@@ -7624,7 +7648,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250306000200 +0100" stop="20250306011500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306000200 +0100" stop="20250306011500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El Capitán en América: La gran crisis</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Documentales/Viajes · Joaquín reflexiona acerca de cómo es su vida y de cómo esta ha cambiado.
@@ -7636,7 +7660,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250306011500 +0100" stop="20250306023000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306011500 +0100" stop="20250306023000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Joaquín, el novato T1 · Especial: Detrás de Joaquín el novato</title>
     <sub-title lang="es">2022 | ⑦ | ★10.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Humor · Joaquín Sánchez se acerca a las profesiones de los rostros más famosos del país. Votos: 2.
@@ -7652,7 +7676,7 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306023000 +0100" stop="20250306031500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306023000 +0100" stop="20250306031500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 13.
@@ -7667,7 +7691,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306031500 +0100" stop="20250306041500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306031500 +0100" stop="20250306041500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -7681,7 +7705,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306041500 +0100" stop="20250306051500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306041500 +0100" stop="20250306051500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 12.
@@ -7695,7 +7719,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306051500 +0100" stop="20250306060000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306051500 +0100" stop="20250306060000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -7709,7 +7733,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306060000 +0100" stop="20250306061500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306060000 +0100" stop="20250306061500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -7723,7 +7747,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306061500 +0100" stop="20250306085500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306061500 +0100" stop="20250306085500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Las noticias de la mañana</title>
     <sub-title lang="es">2014 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
@@ -7735,7 +7759,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306085500 +0100" stop="20250306132000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306085500 +0100" stop="20250306132000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Espejo Público T19 E4467</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
@@ -7747,7 +7771,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250306132000 +0100" stop="20250306134500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306132000 +0100" stop="20250306134500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2900</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -7760,7 +7784,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250306134500 +0100" stop="20250306150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306134500 +0100" stop="20250306150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2025 E4447</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -7772,7 +7796,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250306150000 +0100" stop="20250306153000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306150000 +0100" stop="20250306153000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 1</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
@@ -7784,7 +7808,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306153000 +0100" stop="20250306153500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306153000 +0100" stop="20250306153500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 1</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 404.
@@ -7796,7 +7820,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306153500 +0100" stop="20250306154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306153500 +0100" stop="20250306154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <sub-title lang="es">TP | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
@@ -7811,7 +7835,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306154500 +0100" stop="20250306170000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306154500 +0100" stop="20250306170000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sueños de libertad T1 E260</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
@@ -7824,7 +7848,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250306170000 +0100" stop="20250306200000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306170000 +0100" stop="20250306200000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Y ahora, Sonsoles T3 E134</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
@@ -7837,7 +7861,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250306200000 +0100" stop="20250306210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306200000 +0100" stop="20250306210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pasapalabra T4 E1223</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
@@ -7850,7 +7874,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250306210000 +0100" stop="20250306213000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306210000 +0100" stop="20250306213000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 2</title>
     <sub-title lang="es">★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1183.
@@ -7862,7 +7886,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306213000 +0100" stop="20250306213500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306213000 +0100" stop="20250306213500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 2</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 473.
@@ -7874,7 +7898,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306213500 +0100" stop="20250306214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306213500 +0100" stop="20250306214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La previsión de las 9</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 421.
@@ -7886,7 +7910,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306214500 +0100" stop="20250306225000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306214500 +0100" stop="20250306225000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El hormiguero 3.0 T19 E2142</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Humor · Programa que mezcla la ciencia, la música y la política con el humor.
@@ -7899,19 +7923,19 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250306225000 +0100" stop="20250307003000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250306225000 +0100" stop="20250307003000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Programa por determinar</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250307003000 +0100" stop="20250307023000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307003000 +0100" stop="20250307023000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250307023000 +0100" stop="20250307031500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307023000 +0100" stop="20250307031500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 13.
@@ -7926,7 +7950,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307031500 +0100" stop="20250307041500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307031500 +0100" stop="20250307041500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -7940,7 +7964,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307041500 +0100" stop="20250307051500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307041500 +0100" stop="20250307051500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 12.
@@ -7954,7 +7978,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307051500 +0100" stop="20250307060000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307051500 +0100" stop="20250307060000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -7968,7 +7992,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307060000 +0100" stop="20250307061500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307060000 +0100" stop="20250307061500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -7982,7 +8006,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307061500 +0100" stop="20250307085500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307061500 +0100" stop="20250307085500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Las noticias de la mañana</title>
     <sub-title lang="es">2014 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Avance de las principales noticias que abordarán los informativos del día de Antena 3. Votos: 555.
@@ -7994,7 +8018,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307085500 +0100" stop="20250307132000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307085500 +0100" stop="20250307132000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Espejo Público T19 E4468</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Magacín matinal con información de actualidad y reportajes de sociedad.
@@ -8006,7 +8030,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250307132000 +0100" stop="20250307134500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307132000 +0100" stop="20250307134500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2901</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -8019,7 +8043,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250307134500 +0100" stop="20250307150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307134500 +0100" stop="20250307150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2025 E4396</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -8031,7 +8055,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250307150000 +0100" stop="20250307153000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307150000 +0100" stop="20250307153000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 1</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe. Votos: 874.
@@ -8043,7 +8067,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307153000 +0100" stop="20250307153500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307153000 +0100" stop="20250307153500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 1</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 404.
@@ -8055,7 +8079,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307153500 +0100" stop="20250307154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307153500 +0100" stop="20250307154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <sub-title lang="es">TP | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 466.
@@ -8070,7 +8094,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307154500 +0100" stop="20250307170000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307154500 +0100" stop="20250307170000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sueños de libertad T1 E261</title>
     <sub-title lang="es">2024 | ⑫</sub-title>
     <desc lang="es"> · Series/Drama · Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.
@@ -8083,7 +8107,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250307170000 +0100" stop="20250307200000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307170000 +0100" stop="20250307200000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Y ahora, Sonsoles T3 E135</title>
     <sub-title lang="es">2025 | ⑯</sub-title>
     <desc lang="es"> · Entretenimiento/Magacín · Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.
@@ -8096,7 +8120,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250307200000 +0100" stop="20250307210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307200000 +0100" stop="20250307210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pasapalabra T4 E1224</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
@@ -8109,7 +8133,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250307210000 +0100" stop="20250307214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307210000 +0100" stop="20250307214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias 2</title>
     <sub-title lang="es">★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés. Votos: 1188.
@@ -8121,7 +8145,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307214500 +0100" stop="20250307215500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307214500 +0100" stop="20250307215500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes 2</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional. Votos: 478.
@@ -8133,7 +8157,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307215500 +0100" stop="20250307221000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307215500 +0100" stop="20250307221000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La previsión de las 9</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta. Votos: 421.
@@ -8145,7 +8169,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250307221000 +0100" stop="20250308002000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250307221000 +0100" stop="20250308002000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El Desafío T5 E9</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Un grupo de famosos se enfrenta a difíciles pruebas cada semana en este concurso.
@@ -8158,7 +8182,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250308002000 +0100" stop="20250308023000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308002000 +0100" stop="20250308023000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El Desafío T4 E8</title>
     <sub-title lang="es">2024 | ⑦ | ★8.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · En la octava gala, Mario Vaquerizo se enfrenta a la prueba más icónica del programa: la apnea. Por su parte, el "Salto en llamas" debe ser superada por Pablo Castellano, mientras que Pepe Navarro realiza el "Billar extremo". Votos: 7.
@@ -8174,7 +8198,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308023000 +0100" stop="20250308031500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308023000 +0100" stop="20250308031500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 14.
@@ -8189,7 +8213,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308031500 +0100" stop="20250308041500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308031500 +0100" stop="20250308041500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -8203,7 +8227,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308041500 +0100" stop="20250308051500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308041500 +0100" stop="20250308051500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 13.
@@ -8217,7 +8241,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308051500 +0100" stop="20250308064500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308051500 +0100" stop="20250308064500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -8231,7 +8255,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308064500 +0100" stop="20250308070000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308064500 +0100" stop="20250308070000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -8245,7 +8269,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308070000 +0100" stop="20250308072500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308070000 +0100" stop="20250308072500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E10</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 64.
@@ -8259,7 +8283,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308072500 +0100" stop="20250308075000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308072500 +0100" stop="20250308075000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E11</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 28.
@@ -8273,7 +8297,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308075000 +0100" stop="20250308081500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308075000 +0100" stop="20250308081500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E12</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 62.
@@ -8287,7 +8311,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308081500 +0100" stop="20250308124500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308081500 +0100" stop="20250308124500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Los más</title>
     <sub-title lang="es">2017 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 391.
@@ -8301,7 +8325,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308124500 +0100" stop="20250308131700 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308124500 +0100" stop="20250308131700 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2878</title>
     <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 8.
@@ -8317,7 +8341,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308131700 +0100" stop="20250308135000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308131700 +0100" stop="20250308135000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2879</title>
     <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina. Votos: 6.
@@ -8333,7 +8357,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308135000 +0100" stop="20250308150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308135000 +0100" stop="20250308150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2024 E4185</title>
     <sub-title lang="es">2024 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -8345,7 +8369,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250308150000 +0100" stop="20250308154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308150000 +0100" stop="20250308154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 526.
@@ -8358,7 +8382,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308154500 +0100" stop="20250308155500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308154500 +0100" stop="20250308155500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes fin de semana</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 444.
@@ -8370,7 +8394,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308155500 +0100" stop="20250308160000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308155500 +0100" stop="20250308160000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo fin de semana</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 360.
@@ -8382,25 +8406,25 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308160000 +0100" stop="20250308174500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308160000 +0100" stop="20250308174500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250308174500 +0100" stop="20250308192000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308174500 +0100" stop="20250308192000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250308192000 +0100" stop="20250308210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308192000 +0100" stop="20250308210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250308210000 +0100" stop="20250308214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308210000 +0100" stop="20250308214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana. Votos: 582.
@@ -8413,7 +8437,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308214500 +0100" stop="20250308215500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308214500 +0100" stop="20250308215500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes fin de semana</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 444.
@@ -8425,7 +8449,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308215500 +0100" stop="20250308221000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308215500 +0100" stop="20250308221000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo fin de semana</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 360.
@@ -8437,7 +8461,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250308221000 +0100" stop="20250309010000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250308221000 +0100" stop="20250309010000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">¡Salta! T1</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso que pone a prueba conocimientos de cultura general, estrategia y valentía.
@@ -8450,7 +8474,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250309010000 +0100" stop="20250309023000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309010000 +0100" stop="20250309023000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Atrapa un millón T2 E11</title>
     <sub-title lang="es">2024 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que una pareja debe responder a ocho preguntas de actualidad y conocimientos generales para llevarse un millón de euros en efectivo.
@@ -8463,7 +8487,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250309023000 +0100" stop="20250309031500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309023000 +0100" stop="20250309031500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 14.
@@ -8478,7 +8502,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309031500 +0100" stop="20250309041500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309031500 +0100" stop="20250309041500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -8492,7 +8516,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309041500 +0100" stop="20250309051500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309041500 +0100" stop="20250309051500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 13.
@@ -8506,7 +8530,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309051500 +0100" stop="20250309064500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309051500 +0100" stop="20250309064500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Venta Prime</title>
     <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta. Votos: 15.
@@ -8520,7 +8544,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309064500 +0100" stop="20250309070000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309064500 +0100" stop="20250309070000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Remescar cosmética al instante T1 E15</title>
     <sub-title lang="es">2024 | ⑫ | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 15.
@@ -8534,7 +8558,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309070000 +0100" stop="20250309072500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309070000 +0100" stop="20250309072500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E13</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 52.
@@ -8548,7 +8572,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309072500 +0100" stop="20250309075000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309072500 +0100" stop="20250309075000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E14</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 61.
@@ -8562,7 +8586,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309075000 +0100" stop="20250309081500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309075000 +0100" stop="20250309081500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Pelopicopata T1 E15</title>
     <sub-title lang="es">2004 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas. Votos: 81.
@@ -8576,7 +8600,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309081500 +0100" stop="20250309100000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309081500 +0100" stop="20250309100000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Los más</title>
     <sub-title lang="es">2017 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Zapping · Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público. Votos: 391.
@@ -8590,7 +8614,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309100000 +0100" stop="20250309103000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309100000 +0100" stop="20250309103000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Centímetros cúbicos T13 E339</title>
     <sub-title lang="es">2025 | ⑦</sub-title>
     <desc lang="es"> · Deportes/Programa deportes · Espacio semanal que hace un repaso a la actualidad relacionada con los deportes de motor.
@@ -8601,7 +8625,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20250309103000 +0100" stop="20250309124500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309103000 +0100" stop="20250309124500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">El Desafío T5 E8</title>
     <sub-title lang="es">2025 | ⑦ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · En la octava gala, Genoveva Casanova y Lola Lolita se baten en un "Duelo de vértigo". Votos: 2.
@@ -8617,7 +8641,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309124500 +0100" stop="20250309131700 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309124500 +0100" stop="20250309131700 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2880</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -8630,7 +8654,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250309131700 +0100" stop="20250309135000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309131700 +0100" stop="20250309135000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cocina abierta de Karlos Arguiñano T14 E2881</title>
     <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Cocina · Espacio en el que Karlos Arguiñano pone en práctica nuevas recetas de cocina.
@@ -8643,7 +8667,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250309135000 +0100" stop="20250309150000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309135000 +0100" stop="20250309150000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">La ruleta de la suerte T2024 E4186</title>
     <sub-title lang="es">2024 | TP</sub-title>
     <desc lang="es"> · Entretenimiento/Concurso · Concurso en el que los participantes hacen girar una ruleta para obtener premios.
@@ -8655,7 +8679,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250309150000 +0100" stop="20250309154500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309150000 +0100" stop="20250309154500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio. Votos: 530.
@@ -8668,7 +8692,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309154500 +0100" stop="20250309155500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309154500 +0100" stop="20250309155500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes fin de semana</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 444.
@@ -8680,7 +8704,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309155500 +0100" stop="20250309160000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309155500 +0100" stop="20250309160000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo fin de semana</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 364.
@@ -8692,25 +8716,25 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309160000 +0100" stop="20250309174500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309160000 +0100" stop="20250309174500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250309174500 +0100" stop="20250309192000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309174500 +0100" stop="20250309192000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250309192000 +0100" stop="20250309210000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309192000 +0100" stop="20250309210000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Cine</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es">· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250309210000 +0100" stop="20250309214500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309210000 +0100" stop="20250309214500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana. Votos: 582.
@@ -8723,7 +8747,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309214500 +0100" stop="20250309215500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309214500 +0100" stop="20250309215500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Deportes fin de semana</title>
     <sub-title lang="es">2013 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Deportes · Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales. Votos: 444.
@@ -8735,7 +8759,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309215500 +0100" stop="20250309221000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309215500 +0100" stop="20250309221000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Tu tiempo fin de semana</title>
     <sub-title lang="es">★6.0/10</sub-title>
     <desc lang="es"> · Información/Meteorología · Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta. Votos: 364.
@@ -8747,7 +8771,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250309221000 +0100" stop="20250310023000 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250309221000 +0100" stop="20250310023000 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Una nueva vida T1 E26</title>
     <sub-title lang="es">2022 | ⑯</sub-title>
     <desc lang="es"> · Series/Drama · El pilar de una de las familias mejor establecidas del lugar, decide casar a su nieto rebelde para alinearlo.
@@ -8760,7 +8784,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250310023000 +0100" stop="20250310031500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250310023000 +0100" stop="20250310031500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Sportium Game Show</title>
     <sub-title lang="es">2025 | ⑱ | ★4.0/10</sub-title>
     <desc lang="es"> · Entretenimiento · Espacio conducido por Sofía Del Prado que repasa las mejores apuestas y cuotas deportivas. Votos: 14.
@@ -8775,7 +8799,7 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250310031500 +0100" stop="20250310041500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250310031500 +0100" stop="20250310041500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Play Uzu Nights</title>
     <sub-title lang="es">2020 | ⑱ | ★6.0/10</sub-title>
     <desc lang="es"> · Entretenimiento/Variedades · Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego. Votos: 94.
@@ -8789,7 +8813,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250310041500 +0100" stop="20250310051500 +0100" channel="ES: ANTENA 3 HD">
+  <programme start="20250310041500 +0100" stop="20250310051500 +0100" channel=""ES: ANTENA 3 ᴴᴰ"">
     <title lang="es">Juwelo</title>
     <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Televenta · Programa de televenta directa de joyería. Votos: 13.
@@ -8850,7 +8874,6 @@
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1164298" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -8867,7 +8890,6 @@
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1176736" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -8878,13 +8900,12 @@
   <programme start="20250303093000 +0100" stop="20250303103000 +0100" channel="ES: CUATRO HD">
     <title lang="es">Alerta Cobra T18 E15 · Animales salvajes</title>
     <sub-title lang="es">2013 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 120.
+    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 121.
 · Título original: Alarm Für Cobra (T18): Ep.15 Wilde Tiere
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1176735" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -8927,7 +8948,7 @@
   <programme start="20250303151500 +0100" stop="20250303153000 +0100" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -8985,7 +9006,7 @@
   <programme start="20250303210500 +0100" stop="20250303211000 +0100" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -9139,15 +9160,15 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304073000 +0100" stop="20250304080000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">¡Toma Salami! T1</title>
+  <programme start="20250304073000 +0100" stop="20250304075000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">¡Toma Salami! T1 E64</title>
     <sub-title lang="es">2019 | ⑦ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 109.
+    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 5.
 · País: España
 · Presenta: Javier Capitán.
 · Productora: Mediaset, Mandarina Producciones.</desc>
     <category lang="es">Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1671105" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -9155,15 +9176,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304080000 +0100" stop="20250304084500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T17</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 156.
+  <programme start="20250304075000 +0100" stop="20250304084000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T18 E7 · Apagón</title>
+    <sub-title lang="es">2013 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 56.
+· Título original: Alarm Für Cobra (T18): Ep.7 Shutdown
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1164300" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9171,15 +9193,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304084500 +0100" stop="20250304093500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T17</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 156.
+  <programme start="20250304084000 +0100" stop="20250304093000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T18 E16 · Decisión solitaria</title>
+    <sub-title lang="es">2013 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 115.
+· Título original: Alarm Für Cobra (T18): Ep.16 Einsame Entscheidung
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1176734" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9187,15 +9210,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304093500 +0100" stop="20250304103000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T17</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 156.
+  <programme start="20250304093000 +0100" stop="20250304103000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T19 E3 · La rehén</title>
+    <sub-title lang="es">2014 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Series/Acción · La brigada especial de autopistas se encarga de luchar contra el crimen y mantener el orden en zonas muy conflictivas. Votos: 60.
+· Título original: Alarm für Cobra (T19): Ep.3 Die Geisel (The Hostage)
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1251132" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9230,22 +9254,18 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304145500 +0100" stop="20250304151500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo. Votos: 10.
-· País: España
-· Presenta: Manu Carreño.</desc>
+  <programme start="20250304145500 +0100" stop="20250304151000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes T3 E61</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3899259" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
   </programme>
-  <programme start="20250304151500 +0100" stop="20250304153000 +0100" channel="ES: CUATRO HD">
+  <programme start="20250304151000 +0100" stop="20250304153000 +0100" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 606.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -9309,10 +9329,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304205500 +0100" stop="20250304210000 +0100" channel="ES: CUATRO HD">
+  <programme start="20250304205500 +0100" stop="20250304210500 +0100" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 606.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -9321,21 +9341,18 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304210000 +0100" stop="20250304215000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">First dates T10</title>
-    <sub-title lang="es">2023 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial. Votos: 33.
+  <programme start="20250304210500 +0100" stop="20250304215000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">First dates T10 E76</title>
+    <sub-title lang="es">2023 | ⑫</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial.
 · País: España
 · Presenta: Carlos Sobera.
 · Productora: Cuatro, Warner Bros ITVP.</desc>
     <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3108986" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>12</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250304215000 +0100" stop="20250304225000 +0100" channel="ES: CUATRO HD">
     <title lang="es">First dates T10</title>
@@ -9370,41 +9387,24 @@
     </star-rating>
   </programme>
   <programme start="20250305015500 +0100" stop="20250305032000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">ElDesmarque Madrugada</title>
-    <sub-title lang="es">2025 | ⑱ | ★8.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales. Votos: 8.
+    <title lang="es">ElDesmarque Madrugada T3 E36</title>
+    <sub-title lang="es">2025 | ⑱</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
 · País: España
 · Presenta: Ricardo Reyes.</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3900863" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3953581" />
     <rating system="ES">
       <value>18</value>
     </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250305032000 +0100" stop="20250305042500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T8</title>
-    <sub-title lang="es">2021 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad. Votos: 47.
+  <programme start="20250305032000 +0100" stop="20250305042000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T7 · El ayuno intermitente</title>
+    <sub-title lang="es">2020 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Información/Reportaje · El ayuno intermitente es una manera de alimentare con millones de adeptos en todo el mundo, incluidos personajes famosos como Elsa Pataky y Tamara Falcó. Sin embargo, puede resultar peligroso si no se realiza bajo supervisión médica. Votos: 12.
 · País: España</desc>
     <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1943043" />
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250305042500 +0100" stop="20250305053000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T6</title>
-    <sub-title lang="es">2019 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad. Votos: 97.
-· País: España</desc>
-    <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1652022" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9412,7 +9412,21 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305053000 +0100" stop="20250305064500 +0100" channel="ES: CUATRO HD">
+  <programme start="20250305042000 +0100" stop="20250305052000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T7 · Vacunados por la jeta</title>
+    <sub-title lang="es">2021 | ⑫ | ★8.0/10</sub-title>
+    <desc lang="es"> · Información/Reportaje · Recorren diversos puntos de España para investigar estos casos y ahondar en los detalles de la gestión realizada en la Campaña de Vacunación contra la COVID-19. Votos: 10.
+· País: España</desc>
+    <category lang="es">Información, Reportaje</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250305052000 +0100" stop="20250305065000 +0100" channel="ES: CUATRO HD">
     <title lang="es">Puro Cuatro</title>
     <sub-title lang="es">2021 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Música/Programa de música · Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro. Votos: 47.
@@ -9426,19 +9440,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305064500 +0100" stop="20250305070000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Remescar cosmética al instante T1</title>
-    <sub-title lang="es">2023 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 28.
+  <programme start="20250305065000 +0100" stop="20250305070000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Remescar cosmética al instante T1 E1</title>
+    <sub-title lang="es">2023 | ⑫</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.
 </desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P2186035" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3875762" />
     <rating system="ES">
       <value>12</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250305070000 +0100" stop="20250305073000 +0100" channel="ES: CUATRO HD">
     <title lang="es">Love Shopping TV Cuatro T1</title>
@@ -9454,15 +9465,15 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305073000 +0100" stop="20250305080000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">¡Toma Salami! T1</title>
+  <programme start="20250305073000 +0100" stop="20250305075000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">¡Toma Salami! T1 E65</title>
     <sub-title lang="es">2019 | ⑦ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 109.
+    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 5.
 · País: España
 · Presenta: Javier Capitán.
 · Productora: Mediaset, Mandarina Producciones.</desc>
     <category lang="es">Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1671105" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -9470,16 +9481,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305080000 +0100" stop="20250305084500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 158.
-· Título original: Alarm für Cobra
+  <programme start="20250305075000 +0100" stop="20250305083000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T18 E11 · La reportera de noche</title>
+    <sub-title lang="es">2013 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 67.
+· Título original: Alarm Für Cobra (T18): Ep.11 Die Nachtreporterin
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1169919" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9487,33 +9498,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305084500 +0100" stop="20250305093500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 158.
-· Título original: Alarm für Cobra
+  <programme start="20250305083000 +0100" stop="20250305103000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T19 E1 · Revolución</title>
+    <sub-title lang="es">2014 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 44.
+· Título original: Alarm für Cobra (T19): Ep.1 Revolution (I)
 · País: Alemania
 · Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250305093500 +0100" stop="20250305103000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra</title>
-    <sub-title lang="es">2012 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Series/Acción · Serie que muestra las vivencias de una brigada especial de carreteras. Votos: 158.
-· Título original: Alarm für Cobra
-· País: Alemania
-· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
-· Productora: RTL, Action Concept GmbH.</desc>
-    <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1111825" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1251131" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9548,22 +9542,18 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305145500 +0100" stop="20250305151500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo. Votos: 10.
-· País: España
-· Presenta: Manu Carreño.</desc>
+  <programme start="20250305145500 +0100" stop="20250305151000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes T3 E62</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3899259" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
   </programme>
-  <programme start="20250305151500 +0100" stop="20250305153000 +0100" channel="ES: CUATRO HD">
+  <programme start="20250305151000 +0100" stop="20250305153000 +0100" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -9639,15 +9629,59 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305210500 +0100" stop="20250305215500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">First dates T10</title>
-    <sub-title lang="es">2023 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial. Votos: 34.
+  <programme start="20250305210500 +0100" stop="20250305215000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">First dates T10 E77</title>
+    <sub-title lang="es">2023 | ⑫</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial.
 · País: España
 · Presenta: Carlos Sobera.
 · Productora: Cuatro, Warner Bros ITVP.</desc>
     <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3108986" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20250305215000 +0100" stop="20250305225000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">First dates T10 E334</title>
+    <sub-title lang="es">2025 | ⑫</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial.
+</desc>
+    <category lang="es">Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20250305225000 +0100" stop="20250306003000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En guardia: mujeres contra el crimen · El crimen de Pioz</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Documentales/Actualidad · Investigadoras de la Guardia Civil dan testimonio sobre algunos de los casos criminales más mediáticos de las últimas décadas.
+</desc>
+    <category lang="es">Documentales, Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250306003000 +0100" stop="20250306013000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En guardia: mujeres contra el crimen · Raval, el corredor de la heroína</title>
+    <sub-title lang="es">2024 | ⑫</sub-title>
+    <desc lang="es"> · Documentales/Actualidad · El programa aborda la 'Operación Raval', la investigación de un corredor de heroína.
+</desc>
+    <category lang="es">Documentales, Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20250306013000 +0100" stop="20250306021000 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T2 · Cazaherencias</title>
+    <sub-title lang="es">2017 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Información/Reportaje · El programa investiga cómo se buscan las herencias perdidas y quiénes se dedica a ello. Votos: 26.
+</desc>
+    <category lang="es">Información, Reportaje</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9655,72 +9689,25 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305215500 +0100" stop="20250305225000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">First dates T10</title>
-    <sub-title lang="es">2023 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Espacio que organiza citas entre solteros en un restaurante único y especial. Votos: 34.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: Cuatro, Warner Bros ITVP.</desc>
-    <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3108986" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250305225000 +0100" stop="20250306005500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Calleja en el espacio</title>
-    <sub-title lang="es">2025 | TP</sub-title>
-    <desc lang="es"> · Documentales/Ciencia tecnología · Jesús Calleja se convierte en el tercer español de la historia en viajar al espacio. El viaje se realizará en el vuelo tripulado del cohete New Shepard de Blue Origin.
-· País: España
-· Dirección: Daniel Lora.</desc>
-    <category lang="es">Documentales, Ciencia tecnología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3940676" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250306005500 +0100" stop="20250306015000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">Chester T3</title>
-    <sub-title lang="es">2018 | ⑫ | ★8.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Entrevista · Risto Mejide emprende una nueva aventura en la que el presentador y sus invitados mantendrán una entrevista dinamizada por los llamados "aceleradores", una serie de estímulos de variada índole que servirán para girar la conversación. Votos: 37.
-· País: España
-· Presenta: Risto Mejide.
-· Productora: La Fábrica de la tele.</desc>
-    <category lang="es">Entretenimiento, Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1520641" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306015000 +0100" stop="20250306025500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">ElDesmarque Madrugada</title>
-    <sub-title lang="es">2025 | ⑱ | ★8.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales. Votos: 8.
+  <programme start="20250306021000 +0100" stop="20250306031500 +0100" channel="ES: CUATRO HD">
+    <title lang="es">ElDesmarque Madrugada T3 E37</title>
+    <sub-title lang="es">2025 | ⑱</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
 · País: España
 · Presenta: Ricardo Reyes.</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3900863" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3953583" />
     <rating system="ES">
       <value>18</value>
     </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250306025500 +0100" stop="20250306041000 +0100" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T6</title>
-    <sub-title lang="es">2019 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad. Votos: 97.
+  <programme start="20250306031500 +0100" stop="20250306041500 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T7 · Millonarios en pandemia</title>
+    <sub-title lang="es">2021 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Información/Reportaje · El reportaje aborda prácticas y servicios que se han puesto de moda entre los ricos. Votos: 12.
 · País: España</desc>
     <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1652022" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -9728,13 +9715,13 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306041000 +0100" stop="20250306051500 +0100" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T7</title>
-    <sub-title lang="es">2020 | ⑫ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad. Votos: 110.
+  <programme start="20250306041500 +0100" stop="20250306051500 +0100" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T7 · Restaurantes fantasma</title>
+    <sub-title lang="es">2021 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Información/Reportaje · La pandemia ha golpeado duramente a la hostelería, aumentando el reparto a domicilio. Votos: 12.
 · País: España</desc>
     <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1772804" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -10983,7 +10970,7 @@
   <programme start="20250303154500 +0100" stop="20250303155000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11055,7 +11042,7 @@
   <programme start="20250303214500 +0100" stop="20250303220000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11180,13 +11167,13 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304054500 +0100" stop="20250304061000 +0100" channel="">
+  <programme start="20250304054500 +0100" stop="20250304060000 +0100" channel="">
     <title lang="es">Enphorma T1 E25</title>
     <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
     <desc lang="es"> · Ocio y Aficiones/Salud y bienestar · Programa especializado en temas actuales de alimentación, psicología y ejercicio. Votos: 6.
 · País: España</desc>
     <category lang="es">Ocio y Aficiones, Salud y bienestar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3327198" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -11194,23 +11181,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304061000 +0100" stop="20250304070000 +0100" channel="">
-    <title lang="es">Reacción en cadena</title>
-    <sub-title lang="es">2024 | TP | ★8.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Concurso · Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero. Votos: 14.
-· País: España
-· Presenta: Ion Aramendi.
-· Productora: Bulldog TV.</desc>
-    <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3318756" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250304070000 +0100" stop="20250304083000 +0100" channel="">
+  <programme start="20250304060000 +0100" stop="20250304080000 +0100" channel="">
     <title lang="es">Informativos Telecinco matinal</title>
     <sub-title lang="es">2025 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Primera edición informativa de la cadena presentada por Laila Jiménez y Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional. Votos: 11.
@@ -11223,53 +11194,40 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304083000 +0100" stop="20250304090000 +0100" channel="">
-    <title lang="es">La mirada crítica T3</title>
-    <sub-title lang="es">2024 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Informativo · Ana Terradillos regresa al frente de "La mirada crítica" para ofrecer lo más destacado. Votos: 9.
-· País: España
-· Presenta: Ana Terradillos, Antonio Teixeira.</desc>
+  <programme start="20250304080000 +0100" stop="20250304090000 +0100" channel="">
+    <title lang="es">La mirada crítica T3 E126</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Información/Informativo · Ana Terradillos regresa al frente de "La mirada crítica" para ofrecer lo más destacado.
+</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3478535" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250304090000 +0100" stop="20250304103000 +0100" channel="">
-    <title lang="es">El programa de Ana Rosa T20</title>
-    <sub-title lang="es">2025 | ⑯ | ★4.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad. Votos: 6.
-· País: España
-· Presenta: Ana Rosa Quintana.
-· Productora: Unicorn Content.</desc>
+  <programme start="20250304090000 +0100" stop="20250304121500 +0100" channel="">
+    <title lang="es">El programa de Ana Rosa T20 E22</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3919025" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250304103000 +0100" stop="20250304150000 +0100" channel="">
-    <title lang="es">Vamos a ver T3</title>
-    <sub-title lang="es">2024 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Joaquín Prat repasa todas las noticias de actualidad, investigación y entretenimiento. Votos: 10.
-· País: España
-· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+  <programme start="20250304121500 +0100" stop="20250304150000 +0100" channel="">
+    <title lang="es">Vamos a ver T3 E127</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Joaquín Prat repasa todas las noticias de actualidad, investigación y entretenimiento.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3470834" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250304150000 +0100" stop="20250304153000 +0100" channel="">
+  <programme start="20250304150000 +0100" stop="20250304153500 +0100" channel="">
     <title lang="es">Informativos Telecinco</title>
     <sub-title lang="es">2025 | ★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Votos: 3.
@@ -11282,22 +11240,19 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304153000 +0100" stop="20250304154000 +0100" channel="">
-    <title lang="es">El Desmarque Telecinco</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada. Votos: 4.
+  <programme start="20250304153500 +0100" stop="20250304154500 +0100" channel="">
+    <title lang="es">El Desmarque Telecinco T3 E61</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
 · País: España
 · Presenta: Manu Carreño, Matías Prats (hijo).</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899171" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3953453" />
   </programme>
-  <programme start="20250304154000 +0100" stop="20250304154500 +0100" channel="">
+  <programme start="20250304154500 +0100" stop="20250304155000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 606.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11306,21 +11261,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304154500 +0100" stop="20250304183000 +0100" channel="">
-    <title lang="es">TardeAR T4</title>
-    <sub-title lang="es">2025 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magacín de actualidad presentado por Verónica Dulanto y Frank Blanco,. Votos: 6.
-· País: España
-· Presenta: Frank Blanco, Verónica Dulanto.
-· Productora: Mediaset España, Unicorn Content.</desc>
+  <programme start="20250304155000 +0100" stop="20250304183000 +0100" channel="">
+    <title lang="es">TardeAR T4 E22</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Magacín de actualidad presentado por Verónica Dulanto y Frank Blanco,.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3919637" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250304183000 +0100" stop="20250304200000 +0100" channel="">
     <title lang="es">El Diario de Jorge T1</title>
@@ -11353,7 +11303,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304210000 +0100" stop="20250304213500 +0100" channel="">
+  <programme start="20250304210000 +0100" stop="20250304214000 +0100" channel="">
     <title lang="es">Informativos Telecinco Noche</title>
     <sub-title lang="es">2025 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo vespertino presentado por Carlos Franganillo, que incluye las principales noticias que se han producido durante la jornada. Votos: 11.
@@ -11366,22 +11316,18 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304213500 +0100" stop="20250304214500 +0100" channel="">
-    <title lang="es">El Desmarque Telecinco Noche</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada. Votos: 8.
-· País: España
-· Presenta: Matías Prats (hijo).</desc>
+  <programme start="20250304214000 +0100" stop="20250304215000 +0100" channel="">
+    <title lang="es">El Desmarque Telecinco Noche T3 E61</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899173" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
   </programme>
-  <programme start="20250304214500 +0100" stop="20250304215000 +0100" channel="">
+  <programme start="20250304215000 +0100" stop="20250304220000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 606.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11390,21 +11336,39 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250304215000 +0100" stop="20250305015500 +0100" channel="">
-    <title lang="es">Programa por determinar</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es">· Programa por determinar...
+  <programme start="20250304220000 +0100" stop="20250305020000 +0100" channel="">
+    <title lang="es">GH Dúo T3 E10</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · El popular concurso de convivencia se reinventa encerrando a varias parejas de famosos en la cada de Guadalix de la Sierra. Javier Mouzo y Vanessa Mouza, de GH2024, entre otros, llegan dispuestos a superar este reto.
 </desc>
+    <category lang="es">Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20250305015500 +0100" stop="20250305025500 +0100" channel="">
-    <title lang="es">Gran Madrid Show</title>
-    <sub-title lang="es">2024 | ⑱ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento · Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa. Votos: 8.
-· País: España</desc>
+  <programme start="20250305020000 +0100" stop="20250305022500 +0100" channel="">
+    <title lang="es">Gran Madrid Show T2 E64</title>
+    <sub-title lang="es">2025 | ⑱</sub-title>
+    <desc lang="es"> · Entretenimiento · Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3484608" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20250305022500 +0100" stop="20250305025500 +0100" channel="">
+    <title lang="es">¡Toma Salami! T1 E46</title>
+    <sub-title lang="es">2019 | ⑦ | ★6.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 9.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+    <category lang="es">Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1711478" />
+    <rating system="ES">
+      <value>7</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
@@ -11453,10 +11417,10 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305040000 +0100" stop="20250305055500 +0100" channel="">
+  <programme start="20250305040000 +0100" stop="20250305053000 +0100" channel="">
     <title lang="es">Miramimúsica</title>
     <sub-title lang="es">2016 | TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Música/Programa de música · Programa musical que se emite de madrugada. Votos: 486.
+    <desc lang="es"> · Música/Programa de música · Programa musical que se emite de madrugada. Votos: 491.
 · País: España</desc>
     <category lang="es">Música, Programa de música</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M730156V1303097" />
@@ -11467,37 +11431,29 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305055500 +0100" stop="20250305061000 +0100" channel="">
-    <title lang="es">Enphorma T1</title>
-    <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Salud y bienestar · Programa especializado en temas actuales de alimentación, psicología y ejercicio. Votos: 15.
+  <programme start="20250305053000 +0100" stop="20250305054500 +0100" channel="">
+    <title lang="es">Remescar cosmética al instante T1 E1</title>
+    <sub-title lang="es">2023 | ⑫</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.
+</desc>
+    <category lang="es">Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3875762" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20250305054500 +0100" stop="20250305060000 +0100" channel="">
+    <title lang="es">Enphorma T1 E34</title>
+    <sub-title lang="es">2023 | TP</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Salud y bienestar · Programa especializado en temas actuales de alimentación, psicología y ejercicio.
 · País: España</desc>
     <category lang="es">Ocio y Aficiones, Salud y bienestar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250305061000 +0100" stop="20250305070000 +0100" channel="">
-    <title lang="es">Reacción en cadena</title>
-    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Concurso · Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero. Votos: 17.
-· País: España
-· Presenta: Ion Aramendi.
-· Productora: Bulldog TV.</desc>
-    <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3318756" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250305070000 +0100" stop="20250305083000 +0100" channel="">
+  <programme start="20250305060000 +0100" stop="20250305080000 +0100" channel="">
     <title lang="es">Informativos Telecinco matinal</title>
     <sub-title lang="es">2025 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Primera edición informativa de la cadena presentada por Laila Jiménez y Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional. Votos: 11.
@@ -11510,53 +11466,40 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305083000 +0100" stop="20250305090000 +0100" channel="">
-    <title lang="es">La mirada crítica T3</title>
-    <sub-title lang="es">2024 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Informativo · Ana Terradillos regresa al frente de "La mirada crítica" para ofrecer lo más destacado. Votos: 9.
-· País: España
-· Presenta: Ana Terradillos, Antonio Teixeira.</desc>
+  <programme start="20250305080000 +0100" stop="20250305090000 +0100" channel="">
+    <title lang="es">La mirada crítica T3 E127</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Información/Informativo · Ana Terradillos regresa al frente de "La mirada crítica" para ofrecer lo más destacado.
+</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3478535" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250305090000 +0100" stop="20250305103000 +0100" channel="">
-    <title lang="es">El programa de Ana Rosa T20</title>
-    <sub-title lang="es">2025 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad. Votos: 8.
-· País: España
-· Presenta: Ana Rosa Quintana.
-· Productora: Unicorn Content.</desc>
+  <programme start="20250305090000 +0100" stop="20250305121500 +0100" channel="">
+    <title lang="es">El programa de Ana Rosa T20 E23</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3919025" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250305103000 +0100" stop="20250305150000 +0100" channel="">
-    <title lang="es">Vamos a ver T3</title>
-    <sub-title lang="es">2024 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Joaquín Prat repasa todas las noticias de actualidad, investigación y entretenimiento. Votos: 10.
-· País: España
-· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+  <programme start="20250305121500 +0100" stop="20250305150000 +0100" channel="">
+    <title lang="es">Vamos a ver T3 E128</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Joaquín Prat repasa todas las noticias de actualidad, investigación y entretenimiento.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3470834" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250305150000 +0100" stop="20250305153000 +0100" channel="">
+  <programme start="20250305150000 +0100" stop="20250305153500 +0100" channel="">
     <title lang="es">Informativos Telecinco</title>
     <sub-title lang="es">2025 | ★8.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Votos: 3.
@@ -11569,22 +11512,19 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305153000 +0100" stop="20250305154000 +0100" channel="">
-    <title lang="es">El Desmarque Telecinco</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada. Votos: 6.
+  <programme start="20250305153500 +0100" stop="20250305154500 +0100" channel="">
+    <title lang="es">El Desmarque Telecinco T3 E62</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
 · País: España
 · Presenta: Manu Carreño, Matías Prats (hijo).</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899171" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3953479" />
   </programme>
-  <programme start="20250305154000 +0100" stop="20250305154500 +0100" channel="">
+  <programme start="20250305154500 +0100" stop="20250305155000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11593,21 +11533,16 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305154500 +0100" stop="20250305183000 +0100" channel="">
-    <title lang="es">TardeAR T4</title>
-    <sub-title lang="es">2025 | ⑯ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Magacín · Magacín de actualidad presentado por Verónica Dulanto y Frank Blanco,. Votos: 6.
-· País: España
-· Presenta: Frank Blanco, Verónica Dulanto.
-· Productora: Mediaset España, Unicorn Content.</desc>
+  <programme start="20250305155000 +0100" stop="20250305183000 +0100" channel="">
+    <title lang="es">TardeAR T4 E23</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Magacín · Magacín de actualidad presentado por Verónica Dulanto y Frank Blanco,.
+</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3919637" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250305183000 +0100" stop="20250305200000 +0100" channel="">
     <title lang="es">El Diario de Jorge T1</title>
@@ -11640,7 +11575,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305210000 +0100" stop="20250305213500 +0100" channel="">
+  <programme start="20250305210000 +0100" stop="20250305213000 +0100" channel="">
     <title lang="es">Informativos Telecinco Noche</title>
     <sub-title lang="es">2025 | ★6.0/10</sub-title>
     <desc lang="es"> · Información/Informativo · Informativo vespertino presentado por Carlos Franganillo, que incluye las principales noticias que se han producido durante la jornada. Votos: 11.
@@ -11653,22 +11588,18 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305213500 +0100" stop="20250305214500 +0100" channel="">
-    <title lang="es">El Desmarque Telecinco Noche</title>
-    <sub-title lang="es">2025 | ★6.0/10</sub-title>
-    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada. Votos: 8.
-· País: España
-· Presenta: Matías Prats (hijo).</desc>
+  <programme start="20250305213000 +0100" stop="20250305215000 +0100" channel="">
+    <title lang="es">El Desmarque Telecinco Noche T3 E62</title>
+    <sub-title lang="es">2025</sub-title>
+    <desc lang="es"> · Deportes/Programa deportes · El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899173" />
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
   </programme>
-  <programme start="20250305214500 +0100" stop="20250305225000 +0100" channel="">
+  <programme start="20250305215000 +0100" stop="20250305220000 +0100" channel="">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★6.0/10</sub-title>
-    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 608.
+    <desc lang="es"> · Información/Meteorología · Espacio informativo que ofrece la previsión meteorológica. Votos: 609.
 · País: España
 · Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
     <category lang="es">Información, Meteorología</category>
@@ -11677,55 +11608,64 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250305225000 +0100" stop="20250306001500 +0100" channel="">
-    <title lang="es">La isla de las tentaciones T8</title>
-    <sub-title lang="es">2025 | ⑯ | ★8.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras. Votos: 32.
-· País: España
-· Presenta: Sandra Barneda.</desc>
+  <programme start="20250305220000 +0100" stop="20250305231500 +0100" channel="">
+    <title lang="es">La isla de las tentaciones T8 E15</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
+</desc>
     <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3902262" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20250305231500 +0100" stop="20250306022500 +0100" channel="">
+    <title lang="es">Next Level Chef T1 E9</title>
+    <sub-title lang="es">2025 | ⑦ | ★10.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Telerrealidad · Cocineros, amateurs y foodies influencers compiten en un plató con tres cocinas de distintos niveles que funcionan a la vez. Los 15 participantes ponen a prueba su rapidez y sangre fría para tomar decisiones en situaciones límite. Votos: 1.
+· País: España
+· Presenta: Blanca Romero Contreras.
+· Productora: Mediaset España, Shine Iberia.</desc>
+    <category lang="es">Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250306022500 +0100" stop="20250306025000 +0100" channel="">
+    <title lang="es">Gran Madrid Show T2 E65</title>
+    <sub-title lang="es">2025 | ⑱</sub-title>
+    <desc lang="es"> · Entretenimiento · Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20250306025000 +0100" stop="20250306030500 +0100" channel="">
+    <title lang="es">¡Toma Salami! T1 E47</title>
+    <sub-title lang="es">2019 | ⑦ | ★8.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán. Votos: 4.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+    <category lang="es">Entretenimiento, Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <rating system="ES">
+      <value>7</value>
     </rating>
     <star-rating system="ES">
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306001500 +0100" stop="20250306020000 +0100" channel="">
-    <title lang="es">Next Level Chef T1</title>
-    <sub-title lang="es">2024 | ⑦ | ★4.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento/Telerrealidad · Cocineros, amateurs y foodies influencers compiten en un plató con tres cocinas de distintos niveles que funcionan a la vez. Los 15 participantes ponen a prueba su rapidez y sangre fría para tomar decisiones en situaciones límite. Votos: 3.
-· País: España
-· Presenta: Blanca Romero Contreras.
-· Productora: Mediaset España, Shine Iberia.</desc>
-    <category lang="es">Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3902881" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306020000 +0100" stop="20250306025500 +0100" channel="">
-    <title lang="es">Gran Madrid Show</title>
-    <sub-title lang="es">2024 | ⑱ | ★6.0/10</sub-title>
-    <desc lang="es"> · Entretenimiento · Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa. Votos: 8.
-· País: España</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3484608" />
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250306025500 +0100" stop="20250306030000 +0100" channel="">
+  <programme start="20250306030500 +0100" stop="20250306031000 +0100" channel="">
     <title lang="es">Horóscopo de Esperanza Gracia</title>
     <sub-title lang="es">2021 | ⑱ | ★6.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Esoterismo · La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco. Votos: 364.
+    <desc lang="es"> · Ocio y Aficiones/Esoterismo · La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco. Votos: 370.
 · País: España
 · Presenta: Esperanza Gracia.</desc>
     <category lang="es">Ocio y Aficiones, Esoterismo</category>
@@ -11737,38 +11677,38 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306030000 +0100" stop="20250306033000 +0100" channel="">
-    <title lang="es">Love Shopping TV T1</title>
-    <sub-title lang="es">2024 | TP | ★2.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono. Votos: 2.
+  <programme start="20250306031000 +0100" stop="20250306034000 +0100" channel="">
+    <title lang="es">Love Shopping TV T1 E16</title>
+    <sub-title lang="es">2024 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono. Votos: 11.
 </desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3844620" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>2.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306033000 +0100" stop="20250306040000 +0100" channel="">
-    <title lang="es">Love Shopping TV T1</title>
-    <sub-title lang="es">2024 | TP | ★2.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono. Votos: 2.
+  <programme start="20250306034000 +0100" stop="20250306041000 +0100" channel="">
+    <title lang="es">Love Shopping TV T1 E22</title>
+    <sub-title lang="es">2025 | TP | ★6.0/10</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono. Votos: 9.
 </desc>
     <category lang="es">Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3929705" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>2.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306040000 +0100" stop="20250306055500 +0100" channel="">
+  <programme start="20250306041000 +0100" stop="20250306053000 +0100" channel="">
     <title lang="es">Miramimúsica</title>
     <sub-title lang="es">2016 | TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Música/Programa de música · Programa musical que se emite de madrugada. Votos: 486.
+    <desc lang="es"> · Música/Programa de música · Programa musical que se emite de madrugada. Votos: 491.
 · País: España</desc>
     <category lang="es">Música, Programa de música</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M730156V1303097" />
@@ -11779,19 +11719,30 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250306055500 +0100" stop="20250306061000 +0100" channel="">
-    <title lang="es">Enphorma T1</title>
-    <sub-title lang="es">2023 | TP | ★6.0/10</sub-title>
-    <desc lang="es"> · Ocio y Aficiones/Salud y bienestar · Programa especializado en temas actuales de alimentación, psicología y ejercicio. Votos: 15.
-· País: España</desc>
-    <category lang="es">Ocio y Aficiones, Salud y bienestar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+  <programme start="20250306053000 +0100" stop="20250306054500 +0100" channel="">
+    <title lang="es">Remescar cosmética al instante T1 E2</title>
+    <sub-title lang="es">2023 | ⑫ | ★6.0/10</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Televenta · Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta. Votos: 8.
+</desc>
+    <category lang="es">Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3876801" />
     <rating system="ES">
-      <value>TP</value>
+      <value>12</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250306054500 +0100" stop="20250306061000 +0100" channel="">
+    <title lang="es">Enphorma T1 E33</title>
+    <sub-title lang="es">2023 | TP</sub-title>
+    <desc lang="es"> · Ocio y Aficiones/Salud y bienestar · Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category lang="es">Ocio y Aficiones, Salud y bienestar</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3914400" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250306061000 +0100" stop="20250306070000 +0100" channel="">
     <title lang="es">Reacción en cadena</title>
@@ -13024,8 +12975,8 @@
   </programme>
   <programme start="20250303154500 +0100" stop="20250303171500 +0100" channel="">
     <title lang="es">Zapeando T24/25 E2809</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
-    <desc lang="es"> · Entretenimiento/Humor · Espacio que comenta con humor la actualidad televisiva.
+    <sub-title lang="es">2025 | ⑯ | ★10.0/10</sub-title>
+    <desc lang="es"> · Entretenimiento/Humor · Espacio que comenta con humor la actualidad televisiva. Votos: 2.
 · País: España
 · Presenta: Dani Mateo.
 · Productora: Globomedia.</desc>
@@ -13034,6 +12985,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250303171500 +0100" stop="20250303200000 +0100" channel="">
     <title lang="es">Más vale tarde T24/25 E622</title>
