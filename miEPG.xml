@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 09/09/2025 07:02" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/09/2025 07:05" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="LA1.es">
     <display-name>LA1.es</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -14,7 +14,7 @@
   </channel>
   <channel id="ES: LA 1 ᵁᴴᴰ 3840P">
     <display-name>ES: LA 1 ᵁᴴᴰ 3840P</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/La%201%20UHD.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20UHD.png" />
   </channel>
   <channel id="ES: LA 2 HD">
     <display-name>ES: LA 2 HD</display-name>
