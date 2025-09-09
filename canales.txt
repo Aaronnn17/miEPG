@@ -1,7 +1,7 @@
 La 1 HD,LA1.es
 La 1 HD,ES: LA 1 SD
 La 1 HD,ES: LA 1 ᴴᴰ
-La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P,https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%201%20UHD.png
+La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P,https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/La%201%20UHD.png
 La 2,ES: LA 2 HD
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ
 Cuatro HD,ES: CUATRO HD
