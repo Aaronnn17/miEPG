@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 09/09/2025 07:05" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/09/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="LA1.es">
     <display-name>LA1.es</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -34,7 +34,7 @@
   </channel>
   <programme start="20250909075000 +0200" stop="20250909103500 +0200" channel="LA1.es">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E178</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★10/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -43,6 +43,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909103500 +0200" stop="20250909150000 +0200" channel="LA1.es">
     <title lang="es">Mañaneros 360 T2 E7</title>
@@ -106,14 +109,11 @@
   </programme>
   <programme start="20250909155500 +0200" stop="20250909173000 +0200" channel="LA1.es">
     <title lang="es">DIRECTO Final Etapa 16 - Poio - Mos. Castro de Herville T2025 · La Vuelta</title>
-    <sub-title lang="es">2025 | TP | ★5/₁₀</sub-title>
+    <sub-title lang="es">2025 | ★5/₁₀</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085180" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>5/10</value>
     </star-rating>
@@ -147,15 +147,18 @@
   </programme>
   <programme start="20250909192000 +0200" stop="20250909203000 +0200" channel="LA1.es">
     <title lang="es">Malas lenguas T1 E171</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4007097" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117550" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909203000 +0200" stop="20250909210000 +0200" channel="LA1.es">
     <title lang="es">Aquí la Tierra</title>
@@ -258,7 +261,7 @@
 · Dirección: Xabier Fortes.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108663" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
     <star-rating system="ES">
       <value>6/10</value>
     </star-rating>
@@ -276,13 +279,16 @@
   </programme>
   <programme start="20250910060000 +0200" stop="20250910075000 +0200" channel="LA1.es">
     <title lang="es">Telediario Matinal</title>
-    <sub-title lang="es">2023 | ★6.2/₁₀</sub-title>
+    <sub-title lang="es">2023 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Información,Informativo · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -367,11 +373,14 @@
   </programme>
   <programme start="20250910155500 +0200" stop="20250910171000 +0200" channel="LA1.es">
     <title lang="es">DIRECTO Final Etapa 17 - Barco de Valdeorras - Alto de el Morredero T2025 · La Vuelta</title>
-    <sub-title lang="es">2025</sub-title>
+    <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250910171000 +0200" stop="20250910181500 +0200" channel="LA1.es">
     <title lang="es">Valle Salvaje T3</title>
@@ -1706,7 +1715,7 @@
   </programme>
   <programme start="20250909075000 +0200" stop="20250909103500 +0200" channel="ES: LA 1 SD">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E178</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★10/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -1715,6 +1724,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909103500 +0200" stop="20250909150000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Mañaneros 360 T2 E7</title>
@@ -1778,14 +1790,11 @@
   </programme>
   <programme start="20250909155500 +0200" stop="20250909173000 +0200" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Final Etapa 16 - Poio - Mos. Castro de Herville T2025 · La Vuelta</title>
-    <sub-title lang="es">2025 | TP | ★5/₁₀</sub-title>
+    <sub-title lang="es">2025 | ★5/₁₀</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085180" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>5/10</value>
     </star-rating>
@@ -1819,15 +1828,18 @@
   </programme>
   <programme start="20250909192000 +0200" stop="20250909203000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Malas lenguas T1 E171</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4007097" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117550" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909203000 +0200" stop="20250909210000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Aquí la Tierra</title>
@@ -1930,7 +1942,7 @@
 · Dirección: Xabier Fortes.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108663" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
     <star-rating system="ES">
       <value>6/10</value>
     </star-rating>
@@ -1948,13 +1960,16 @@
   </programme>
   <programme start="20250910060000 +0200" stop="20250910075000 +0200" channel="ES: LA 1 SD">
     <title lang="es">Telediario Matinal</title>
-    <sub-title lang="es">2023 | ★6.2/₁₀</sub-title>
+    <sub-title lang="es">2023 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Información,Informativo · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -2039,11 +2054,14 @@
   </programme>
   <programme start="20250910155500 +0200" stop="20250910171000 +0200" channel="ES: LA 1 SD">
     <title lang="es">DIRECTO Final Etapa 17 - Barco de Valdeorras - Alto de el Morredero T2025 · La Vuelta</title>
-    <sub-title lang="es">2025</sub-title>
+    <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250910171000 +0200" stop="20250910181500 +0200" channel="ES: LA 1 SD">
     <title lang="es">Valle Salvaje T3</title>
@@ -3378,7 +3396,7 @@
   </programme>
   <programme start="20250909075000 +0200" stop="20250909103500 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E178</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★10/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -3387,6 +3405,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909103500 +0200" stop="20250909150000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">Mañaneros 360 T2 E7</title>
@@ -3450,14 +3471,11 @@
   </programme>
   <programme start="20250909155500 +0200" stop="20250909173000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">DIRECTO Final Etapa 16 - Poio - Mos. Castro de Herville T2025 · La Vuelta</title>
-    <sub-title lang="es">2025 | TP | ★5/₁₀</sub-title>
+    <sub-title lang="es">2025 | ★5/₁₀</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085180" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>5/10</value>
     </star-rating>
@@ -3491,15 +3509,18 @@
   </programme>
   <programme start="20250909192000 +0200" stop="20250909203000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">Malas lenguas T1 E171</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4007097" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117550" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909203000 +0200" stop="20250909210000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">Aquí la Tierra</title>
@@ -3602,7 +3623,7 @@
 · Dirección: Xabier Fortes.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108663" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
     <star-rating system="ES">
       <value>6/10</value>
     </star-rating>
@@ -3620,13 +3641,16 @@
   </programme>
   <programme start="20250910060000 +0200" stop="20250910075000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">Telediario Matinal</title>
-    <sub-title lang="es">2023 | ★6.2/₁₀</sub-title>
+    <sub-title lang="es">2023 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Información,Informativo · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -3711,11 +3735,14 @@
   </programme>
   <programme start="20250910155500 +0200" stop="20250910171000 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">DIRECTO Final Etapa 17 - Barco de Valdeorras - Alto de el Morredero T2025 · La Vuelta</title>
-    <sub-title lang="es">2025</sub-title>
+    <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250910171000 +0200" stop="20250910181500 +0200" channel="ES: LA 1 ᴴᴰ">
     <title lang="es">Valle Salvaje T3</title>
@@ -5050,7 +5077,7 @@
   </programme>
   <programme start="20250909075000 +0200" stop="20250909103500 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E178</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★10/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
@@ -5059,6 +5086,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909103500 +0200" stop="20250909150000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">Mañaneros 360 T2 E7</title>
@@ -5122,14 +5152,11 @@
   </programme>
   <programme start="20250909155500 +0200" stop="20250909173000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">DIRECTO Final Etapa 16 - Poio - Mos. Castro de Herville T2025 · La Vuelta</title>
-    <sub-title lang="es">2025 | TP | ★5/₁₀</sub-title>
+    <sub-title lang="es">2025 | ★5/₁₀</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085180" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>5/10</value>
     </star-rating>
@@ -5163,15 +5190,18 @@
   </programme>
   <programme start="20250909192000 +0200" stop="20250909203000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">Malas lenguas T1 E171</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4007097" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117550" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909203000 +0200" stop="20250909210000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">Aquí la Tierra</title>
@@ -5274,7 +5304,7 @@
 · Dirección: Xabier Fortes.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4108663" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
     <star-rating system="ES">
       <value>6/10</value>
     </star-rating>
@@ -5292,13 +5322,16 @@
   </programme>
   <programme start="20250910060000 +0200" stop="20250910075000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">Telediario Matinal</title>
-    <sub-title lang="es">2023 | ★6.2/₁₀</sub-title>
+    <sub-title lang="es">2023 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Información,Informativo · Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category lang="es">Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -5383,11 +5416,14 @@
   </programme>
   <programme start="20250910155500 +0200" stop="20250910171000 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">DIRECTO Final Etapa 17 - Barco de Valdeorras - Alto de el Morredero T2025 · La Vuelta</title>
-    <sub-title lang="es">2025</sub-title>
+    <sub-title lang="es">2025 | TP</sub-title>
     <desc lang="es"> · Deportes,Ciclismo · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
     <category lang="es">Deportes, Ciclismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4085181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20250910171000 +0200" stop="20250910181500 +0200" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title lang="es">Valle Salvaje T3</title>
@@ -6728,7 +6764,7 @@
 · Presenta: Vicente Sevilla, César Palacios.
 · Productora: Radio Televisión Española (RTVE), Zona Mixta.</desc>
     <category lang="es">Ocio y Aficiones, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2028005" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2035498" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6781,7 +6817,7 @@
 · Dirección: Jaume Clèries.
 · Productora: Costa Est Audiovisuals, Radio Televisión Española (RTVE).</desc>
     <category lang="es">Documentales, Arte y cultura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1950884" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1956851" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6793,7 +6829,7 @@
 · País: España
 · Presenta: Adela Ucar.</desc>
     <category lang="es">Cultural/Educativo, Programa cultural</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2129430" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3156414" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6841,7 +6877,7 @@
 · Presenta: Rodrigo Vázquez.
 · Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2070065" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2152819" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6854,7 +6890,7 @@
 · Presenta: Rodrigo Vázquez.
 · Productora: Mediacrest, Radio Televisión Española (RTVE).</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2070065" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P2152821" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6868,7 +6904,7 @@
 · Dirección: Sergi Schaaff.
 · Productora: Quart.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3218003" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3507015" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6882,7 +6918,7 @@
 · Dirección: Sergi Schaaff.
 · Productora: Quart.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4113239" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117794" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6894,7 +6930,7 @@
 · País: EE.UU.
 · Dirección: Phil Coles.</desc>
     <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117792" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6907,7 +6943,7 @@
 · Dirección: Bob Landis.
 · Productora: Trailwood Films.</desc>
     <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3079500" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -6922,7 +6958,7 @@
 · País: R.U.
 · Presenta: Joanna Lumley.</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3054096" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3054919" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6937,7 +6973,7 @@
 · País: España
 · Presenta: Miquel Silvestre.</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1613613" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1640629" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6947,15 +6983,18 @@
   </programme>
   <programme start="20250909192500 +0200" stop="20250909203000 +0200" channel="ES: LA 2 HD">
     <title lang="es">Malas lenguas T1 E171</title>
-    <sub-title lang="es">2025 | ⑯</sub-title>
+    <sub-title lang="es">2025 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Magacín · Jesús Cintora presenta este magacine de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4007097" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117550" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250909203000 +0200" stop="20250909210000 +0200" channel="ES: LA 2 HD">
     <title lang="es">Cifras y letras T2 E152</title>
@@ -6965,7 +7004,7 @@
 · Presenta: Aitor Albizua.
 · Productora: Radio Televisión Española (RTVE).</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3507776" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3848165" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6981,7 +7020,7 @@
 · Presenta: Aitor Albizua.
 · Productora: Radio Televisión Española (RTVE).</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3507776" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3849699" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6997,7 +7036,7 @@
 · Presenta: Aitor Albizua.
 · Productora: Radio Televisión Española (RTVE).</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4113237" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117796" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7010,7 +7049,7 @@
 · Reparto: Robson Green, Tessa Peake-Jones, Al Weaver, James Norton, Morven Christie, Kacey Ainsworth, Skye Lucia Degruttola, Tom Austen, Nick Brimble.
 · Productora: Lovely Day, Independent Television (ITV).</desc>
     <category lang="es">Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297002" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297007" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -7026,7 +7065,7 @@
 · Reparto: Robson Green, Tessa Peake-Jones, Al Weaver, James Norton, Morven Christie, Kacey Ainsworth, Skye Lucia Degruttola, Tom Austen, Nick Brimble.
 · Productora: Lovely Day, Independent Television (ITV).</desc>
     <category lang="es">Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297002" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297008" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -7042,7 +7081,7 @@
 · Reparto: Robson Green, Tessa Peake-Jones, Al Weaver, James Norton, Morven Christie, Kacey Ainsworth, Skye Lucia Degruttola, Seline Hizli, Lorne MacFadyen, Tom Austen, Nick Brimble.
 · Productora: Lovely Day, Independent Television (ITV).</desc>
     <category lang="es">Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297009" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297010" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -7058,7 +7097,7 @@
 · Reparto: Robson Green, Tessa Peake-Jones, Al Weaver, James Norton, Morven Christie, Kacey Ainsworth, Skye Lucia Degruttola, Seline Hizli, Lorne MacFadyen, Tom Austen, Nick Brimble.
 · Productora: Lovely Day, Independent Television (ITV).</desc>
     <category lang="es">Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297009" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1297011" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -7106,7 +7145,7 @@
     <desc lang="es"> · Música,Concierto · Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.
 · País: España</desc>
     <category lang="es">Música, Concierto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4083924" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4117798" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7188,7 +7227,7 @@
 · Presenta: César Palacios.
 · Productora: Radio Televisión Española (RTVE), Zona Mixta.</desc>
     <category lang="es">Ocio y Aficiones, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3227241" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7250,7 +7289,7 @@
 · Presenta: Carolina Alba.
 · Productora: Radio Televisión Española (RTVE), División XL Producciones.</desc>
     <category lang="es">Cultural/Educativo, Literatura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3500752" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7299,7 +7338,7 @@
 · Producción: William Alland.
 · Productora: Universal Pictures, Universal International Pictures (UI).</desc>
     <category lang="es">Cine, Oeste</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P621619" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -7380,7 +7419,7 @@
 · País: España
 · Dirección: Eduardo Barrachina.</desc>
     <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3120128" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -7394,7 +7433,7 @@
 · Guion: Jürgen Eichinger.
 · Productora: Bayerischer Rundfunk (BR).</desc>
     <category lang="es">Documentales, Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1726038" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -7409,7 +7448,7 @@
 · País: EE.UU.
 · Presenta: Paul Hollywood.</desc>
     <category lang="es">Ocio y Aficiones, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3383672" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -9716,7 +9755,7 @@
 · Reparto: Demet Evgar, Mehmet Yilmaz Ak, Bugra Gülsoy, Ecem Özkaya, Elit Andaç Çam.
 · Productora: MF Yapim.</desc>
     <category lang="es">Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P3861092" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P4117717" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -11650,7 +11689,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250910145500 +0200" stop="20250910151500 +0200" channel="ES: CUATRO HD">
+  <programme start="20250910145500 +0200" stop="20250910151000 +0200" channel="ES: CUATRO HD">
     <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes T3 E251</title>
     <sub-title lang="es">2025</sub-title>
     <desc lang="es"> · Deportes,Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
@@ -11658,7 +11697,7 @@
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4117140" />
   </programme>
-  <programme start="20250910151500 +0200" stop="20250910153000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250910151000 +0200" stop="20250910153000 +0200" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★5.8/₁₀</sub-title>
     <desc lang="es"> · Información,Meteorología · Espacio informativo que ofrece la previsión meteorológica.
@@ -11744,7 +11783,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250910214500 +0200" stop="20250910225000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250910214500 +0200" stop="20250910230500 +0200" channel="ES: CUATRO HD">
     <title lang="es">Viajeros Cuatro: Tokio</title>
     <sub-title lang="es">2019 | ⑯ | ★6.6/₁₀</sub-title>
     <desc lang="es"> · Documentales,Viajes · Con más de 37 millones de habitantes, Tokio es la ciudad con mayor población del mundo.
@@ -11760,13 +11799,27 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250910225000 +0200" stop="20250911012500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Cine</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es">· Programa por determinar...
-</desc>
+  <programme start="20250910230500 +0200" stop="20250911015500 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Spider-Man: No Way Home</title>
+    <sub-title lang="es">2021 | ⑫ | ★7.6/₁₀</sub-title>
+    <desc lang="es"> · Cine,Acción · Cuando se descubre la identidad secreta de Peter Parker, este recurre al Doctor Strange para que el mundo olvide que es Spider-Man.
+· País: EE.UU.
+· Dirección: Jon Watts.
+· Reparto: Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Marisa Tomei, Jamie Foxx, Willem Dafoe, Alfred Molina, Andrew Garfield, Tobey Maguire.
+· Guion: Chris McKenna, Erik Sommers.
+· Música: Michael Giacchino.
+· Producción: Kevin Feige, Amy Pascal.
+· Productora: Marvel Studios, Columbia Pictures.</desc>
+    <category lang="es">Cine, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4306129" />
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>7.6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250911012500 +0200" stop="20250911030000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250911015500 +0200" stop="20250911033000 +0200" channel="ES: CUATRO HD">
     <title lang="es">ElDesmarque Madrugada T3 E102</title>
     <sub-title lang="es">2025 | ⑱</sub-title>
     <desc lang="es"> · Deportes,Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
@@ -11778,13 +11831,14 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20250911030000 +0200" stop="20250911042000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250911033000 +0200" stop="20250911044500 +0200" channel="ES: CUATRO HD">
     <title lang="es">Focus: Y tú, ¿Cómo viajas?</title>
     <sub-title lang="es">2023 | ⑯ | ★2/₁₀</sub-title>
     <desc lang="es"> · Documentales,Actualidad · Viajamos de norte a sur del país para descubrir distintas ofertas vacacionales.
-</desc>
+· País: España
+· Productora: La Fábrica de la tele.</desc>
     <category lang="es">Documentales, Actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P2185467" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3057323" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -11792,7 +11846,7 @@
       <value>2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911042000 +0200" stop="20250911053000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250911044500 +0200" stop="20250911055500 +0200" channel="ES: CUATRO HD">
     <title lang="es">En el punto de mira T7 · COVID-19: Residencias</title>
     <sub-title lang="es">2020 | ⑫ | ★6.8/₁₀</sub-title>
     <desc lang="es"> · Información,Reportaje · Durante la crisis sanitaria de la COVID-19 han fallecido más de 20.000 ancianos.
@@ -11806,7 +11860,7 @@
       <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911053000 +0200" stop="20250911070000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250911055500 +0200" stop="20250911070000 +0200" channel="ES: CUATRO HD">
     <title lang="es">Puro Cuatro</title>
     <sub-title lang="es">2021 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Música,Programa de música · Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
@@ -11834,68 +11888,68 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911073000 +0200" stop="20250911080500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">¡Toma Salami!: La tv que nos parió T3</title>
-    <sub-title lang="es">2020 | ⑦ | ★5.8/₁₀</sub-title>
+  <programme start="20250911073000 +0200" stop="20250911080000 +0200" channel="ES: CUATRO HD">
+    <title lang="es">¡Toma Salami! T1 E56</title>
+    <sub-title lang="es">2019 | ⑦ | ★6/₁₀</sub-title>
     <desc lang="es"> · Entretenimiento,Zapping · Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
 · País: España
 · Presenta: Javier Capitán.
 · Productora: Mediaset, Mandarina Producciones.</desc>
     <category lang="es">Entretenimiento, Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1753366" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1671105" />
     <rating system="ES">
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>5.8/10</value>
+      <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911080500 +0200" stop="20250911085000 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T21</title>
-    <sub-title lang="es">2007 | ⑫ | ★5.8/₁₀</sub-title>
+  <programme start="20250911080000 +0200" stop="20250911084500 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T23 E3 · Padres infiltrados</title>
+    <sub-title lang="es">2008 | ⑫ | ★6.4/₁₀</sub-title>
     <desc lang="es"> · Series,Acción · Serie que muestra las vivencias de una brigada especial de carreteras.
 · País: Alemania
-· Reparto: Gedeon Burkhard, René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
 · Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1336320" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1527565" />
     <rating system="ES">
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>5.8/10</value>
+      <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911085000 +0200" stop="20250911093500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T22</title>
-    <sub-title lang="es">2007 | ⑫ | ★6.2/₁₀</sub-title>
-    <desc lang="es"> · Series,Acción · La brigada especial de autopistas se encarga de luchar contra el crimen y mantener el orden en zonas muy conflictivas.
+  <programme start="20250911084500 +0200" stop="20250911093000 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T23 E11 · Caída libre</title>
+    <sub-title lang="es">2008 | ⑫ | ★6.8/₁₀</sub-title>
+    <desc lang="es"> · Series,Acción · Serie que muestra las vivencias de una brigada especial de carreteras.
 · País: Alemania
-· Reparto: René Steinke, Erdogan Atalay, Gottfried Vollmer, Charlotte Schwab.
-· Productora: Action Concept GmbH, RTL.</desc>
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1336344" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1533402" />
     <rating system="ES">
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>6.2/10</value>
+      <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911093500 +0200" stop="20250911103000 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Alerta Cobra T22</title>
-    <sub-title lang="es">2007 | ⑫ | ★6.2/₁₀</sub-title>
-    <desc lang="es"> · Series,Acción · La brigada especial de autopistas se encarga de luchar contra el crimen y mantener el orden en zonas muy conflictivas.
+  <programme start="20250911093000 +0200" stop="20250911103000 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Alerta Cobra T23 E12 · Sangre y agua</title>
+    <sub-title lang="es">2008 | ⑫ | ★6.8/₁₀</sub-title>
+    <desc lang="es"> · Series,Acción · La brigada especial de carreteras se encarga de luchar contra el crimen.
 · País: Alemania
-· Reparto: René Steinke, Erdogan Atalay, Gottfried Vollmer, Charlotte Schwab.
-· Productora: Action Concept GmbH, RTL.</desc>
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
     <category lang="es">Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1336344" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1533633" />
     <rating system="ES">
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>6.2/10</value>
+      <value>6.8/10</value>
     </star-rating>
   </programme>
   <programme start="20250911103000 +0200" stop="20250911140000 +0200" channel="ES: CUATRO HD">
@@ -11998,7 +12052,7 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911205500 +0200" stop="20250911210500 +0200" channel="ES: CUATRO HD">
+  <programme start="20250911205500 +0200" stop="20250911210000 +0200" channel="ES: CUATRO HD">
     <title lang="es">El tiempo</title>
     <sub-title lang="es">2017 | ★5.8/₁₀</sub-title>
     <desc lang="es"> · Información,Meteorología · Espacio informativo que ofrece la previsión meteorológica.
@@ -12010,18 +12064,20 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911210500 +0200" stop="20250911215500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Viajeros Cuatro</title>
-    <sub-title lang="es">2024 | ⑫ | ★6/₁₀</sub-title>
-    <desc lang="es"> · Documentales,Viajes · Programa que recorre algunos de los lugares más fascinantes del planeta de la mano de sus propios moradores, que compartirán tradiciones, curiosidades y consejos para los futuros turistas.
-· País: España</desc>
+  <programme start="20250911210000 +0200" stop="20250911215500 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Viajeros Cuatro: Cartagena de Indias</title>
+    <sub-title lang="es">2019 | ⑦ | ★6.2/₁₀</sub-title>
+    <desc lang="es"> · Documentales,Viajes · Pasado colonial, playas de arena blanca y buena gastronomía. Cartagena de Indias, ciudad declarada Patrimonio Histórico de la Humanidad por la UNESCO en 1984, es uno de los enclaves más espectaculares de Colombia.
+· País: España
+· Dirección: Nacho Medina.
+· Productora: Mandarina Producciones.</desc>
     <category lang="es">Documentales, Viajes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3395805" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1707609" />
     <rating system="ES">
-      <value>12</value>
+      <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>6/10</value>
+      <value>6.2/10</value>
     </star-rating>
   </programme>
   <programme start="20250911215500 +0200" stop="20250911225000 +0200" channel="ES: CUATRO HD">
@@ -12040,80 +12096,58 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250911225000 +0200" stop="20250912002000 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Mis Raíces T1</title>
-    <sub-title lang="es">2025 | ⑦ | ★7.2/₁₀</sub-title>
-    <desc lang="es"> · Entretenimiento,Entrevista · Isabel Jiménez da a conocer las facetas más desconocidas de los invitados al programa. La presentadora entrevistará a distintas personalidades para descubrir sus orígenes, sus motivaciones más personales y sus principios más íntimos.
-· País: España
-· Presenta: Isabel Jiménez.</desc>
-    <category lang="es">Entretenimiento, Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4075356" />
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>7.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250912002000 +0200" stop="20250912013500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">Madres: Desde el corazón T1</title>
-    <sub-title lang="es">2025 | ⑯ | ★5.6/₁₀</sub-title>
-    <desc lang="es"> · Entretenimiento,Entrevista · Cruz Sánchez de Lara entrevista a varias mujeres famosas que son madres. En la charla exploran el papel de la maternidad en sus vidas y cuentan sus experiencias únicas, desafíos y triunfos.
-· País: España
-· Presenta: Cruz Sánchez de Lara.</desc>
-    <category lang="es">Entretenimiento, Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4096657" />
+  <programme start="20250911225000 +0200" stop="20250912020000 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Horizonte T7 E1</title>
+    <sub-title lang="es">2025 | ⑯</sub-title>
+    <desc lang="es"> · Información,Informativo · Un espacio que analiza la actualidad y que pone el foco en el futuro a corto plazo.
+</desc>
+    <category lang="es">Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/no-disp-horz" />
     <rating system="ES">
       <value>16</value>
     </rating>
-    <star-rating system="ES">
-      <value>5.6/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250912013500 +0200" stop="20250912030000 +0200" channel="ES: CUATRO HD">
-    <title lang="es">ElDesmarque Madrugada</title>
-    <sub-title lang="es">2025 | ⑱ | ★7/₁₀</sub-title>
+  <programme start="20250912020000 +0200" stop="20250912032000 +0200" channel="ES: CUATRO HD">
+    <title lang="es">ElDesmarque Madrugada T3 E103</title>
+    <sub-title lang="es">2025 | ⑱</sub-title>
     <desc lang="es"> · Deportes,Programa deportes · Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
-· País: España
-· Presenta: Ricardo Reyes.</desc>
+</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3900863" />
     <rating system="ES">
       <value>18</value>
     </rating>
+  </programme>
+  <programme start="20250912032000 +0200" stop="20250912043500 +0200" channel="ES: CUATRO HD">
+    <title lang="es">Focus E17</title>
+    <sub-title lang="es">2023 | ⑯ | ★10/₁₀</sub-title>
+    <desc lang="es"> · Documentales,Actualidad · Ponemos el foco sobre intervenciones estéticas extremas a las que se someten algunas personas para tratar de conseguir el cuerpo deseado. Tatuarse el iris del ojo de algún color y hacerse modificaciones corporales son algunas de ellas.
+· País: España
+· Productora: La Fábrica de la tele.</desc>
+    <category lang="es">Documentales, Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P2185467" />
+    <rating system="ES">
+      <value>16</value>
+    </rating>
     <star-rating system="ES">
-      <value>7/10</value>
+      <value>10/10</value>
     </star-rating>
   </programme>
-  <programme start="20250912030000 +0200" stop="20250912040500 +0200" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T8</title>
-    <sub-title lang="es">2021 | ⑫ | ★6/₁₀</sub-title>
-    <desc lang="es"> · Información,Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+  <programme start="20250912043500 +0200" stop="20250912054500 +0200" channel="ES: CUATRO HD">
+    <title lang="es">En el punto de mira T7 · El sabor de la fruta y la sal</title>
+    <sub-title lang="es">2020 | ⑫ | ★6.8/₁₀</sub-title>
+    <desc lang="es"> · Información,Reportaje · El programa se adentra en el negocio de la sal, un producto muy consumido en España. Por otro lado, también se investigan los actuales procesos de cultivo y recolección de fruta y cómo afectan a su sabor y calidad.
 · País: España</desc>
     <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1943043" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1817741" />
     <rating system="ES">
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>6/10</value>
+      <value>6.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20250912040500 +0200" stop="20250912051000 +0200" channel="ES: CUATRO HD">
-    <title lang="es">En el punto de mira T8</title>
-    <sub-title lang="es">2021 | ⑫ | ★6/₁₀</sub-title>
-    <desc lang="es"> · Información,Reportaje · Programa de investigación en el que se muestran todas las caras de temas de actualidad.
-· País: España</desc>
-    <category lang="es">Información, Reportaje</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP1943043" />
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-    <star-rating system="ES">
-      <value>6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250912051000 +0200" stop="20250912070000 +0200" channel="ES: CUATRO HD">
+  <programme start="20250912054500 +0200" stop="20250912070000 +0200" channel="ES: CUATRO HD">
     <title lang="es">Puro Cuatro</title>
     <sub-title lang="es">2021 | TP | ★6.2/₁₀</sub-title>
     <desc lang="es"> · Música,Programa de música · Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
