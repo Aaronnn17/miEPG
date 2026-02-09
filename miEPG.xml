@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/02/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/02/2026 12:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="LA1.es">
     <display-name>LA1.es</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
@@ -100,7 +100,7 @@
 	</programme>
 	<programme start="20260208130500 +0100" stop="20260208150000 +0100" channel="LA1.es">
     <title>D Corazón T3 E12</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Corazon y sociedad) Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -110,21 +110,18 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208150000 +0100" stop="20260208154500 +0100" channel="LA1.es">
     <title>Telediario 1 Fin de Semana</title>
-    <sub-title>2021 | TP | ★4.0/10</sub-title>
+    <sub-title>2021 | ★4.0/10</sub-title>
     <desc>(Información,Informativo) Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114179" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>4.0/10</value>
 		</star-rating>
@@ -225,13 +222,13 @@
 	</programme>
 	<programme start="20260208204500 +0100" stop="20260208205500 +0100" channel="LA1.es">
     <title>8F Aragón decide T2026 · Primeros datos</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239381" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208205500 +0100" stop="20260208211500 +0100" channel="LA1.es">
@@ -261,13 +258,13 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="LA1.es">
     <title>8F Aragón decide T2026 · Resultados</title>
-    <sub-title>2026 | ★6.4/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239383" />
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208222500 +0100" stop="20260209004000 +0100" channel="LA1.es">
@@ -322,13 +319,16 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="LA1.es">
     <title>Telediario Matinal</title>
-    <sub-title>2023 | ★6.2/10</sub-title>
+    <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -362,13 +362,16 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="LA1.es">
     <title>Telediario 1</title>
-    <sub-title>2014 | ★6.2/10</sub-title>
+    <sub-title>2014 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -409,7 +412,7 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="LA1.es">
     <title>Directo al grano T2 E26</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Magacín) Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -418,10 +421,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="LA1.es">
     <title>Valle Salvaje T3 E110</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Telenovela) Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -431,10 +437,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="LA1.es">
     <title>La Promesa T1 E771</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -445,10 +454,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="LA1.es">
     <title>Malas lenguas T2 E101</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -458,7 +470,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="LA1.es">
@@ -478,13 +490,16 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="LA1.es">
     <title>Telediario 2</title>
-    <sub-title>2021 | ★6.2/10</sub-title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -503,7 +518,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="LA1.es">
     <title>La revuelta T2 E75</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Entrevista) Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -513,6 +528,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210015000 +0100" channel="LA1.es">
     <title>DecoMasters T1 E3</title>
@@ -1871,7 +1889,7 @@
 	</programme>
 	<programme start="20260208130500 +0100" stop="20260208150000 +0100" channel="ES: LA 1 SD">
     <title>D Corazón T3 E12</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Corazon y sociedad) Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -1881,21 +1899,18 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208150000 +0100" stop="20260208154500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1 Fin de Semana</title>
-    <sub-title>2021 | TP | ★4.0/10</sub-title>
+    <sub-title>2021 | ★4.0/10</sub-title>
     <desc>(Información,Informativo) Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114179" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>4.0/10</value>
 		</star-rating>
@@ -1996,13 +2011,13 @@
 	</programme>
 	<programme start="20260208204500 +0100" stop="20260208205500 +0100" channel="ES: LA 1 SD">
     <title>8F Aragón decide T2026 · Primeros datos</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239381" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208205500 +0100" stop="20260208211500 +0100" channel="ES: LA 1 SD">
@@ -2032,13 +2047,13 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="ES: LA 1 SD">
     <title>8F Aragón decide T2026 · Resultados</title>
-    <sub-title>2026 | ★6.4/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239383" />
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208222500 +0100" stop="20260209004000 +0100" channel="ES: LA 1 SD">
@@ -2093,13 +2108,16 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="ES: LA 1 SD">
     <title>Telediario Matinal</title>
-    <sub-title>2023 | ★6.2/10</sub-title>
+    <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -2133,13 +2151,16 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="ES: LA 1 SD">
     <title>Telediario 1</title>
-    <sub-title>2014 | ★6.2/10</sub-title>
+    <sub-title>2014 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -2180,7 +2201,7 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="ES: LA 1 SD">
     <title>Directo al grano T2 E26</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Magacín) Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -2189,10 +2210,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="ES: LA 1 SD">
     <title>Valle Salvaje T3 E110</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Telenovela) Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -2202,10 +2226,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="ES: LA 1 SD">
     <title>La Promesa T1 E771</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -2216,10 +2243,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="ES: LA 1 SD">
     <title>Malas lenguas T2 E101</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -2229,7 +2259,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="ES: LA 1 SD">
@@ -2249,13 +2279,16 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="ES: LA 1 SD">
     <title>Telediario 2</title>
-    <sub-title>2021 | ★6.2/10</sub-title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -2274,7 +2307,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="ES: LA 1 SD">
     <title>La revuelta T2 E75</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Entrevista) Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -2284,6 +2317,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210015000 +0100" channel="ES: LA 1 SD">
     <title>DecoMasters T1 E3</title>
@@ -3642,7 +3678,7 @@
 	</programme>
 	<programme start="20260208130500 +0100" stop="20260208150000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>D Corazón T3 E12</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Corazon y sociedad) Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -3652,21 +3688,18 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208150000 +0100" stop="20260208154500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Telediario 1 Fin de Semana</title>
-    <sub-title>2021 | TP | ★4.0/10</sub-title>
+    <sub-title>2021 | ★4.0/10</sub-title>
     <desc>(Información,Informativo) Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114179" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>4.0/10</value>
 		</star-rating>
@@ -3767,13 +3800,13 @@
 	</programme>
 	<programme start="20260208204500 +0100" stop="20260208205500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>8F Aragón decide T2026 · Primeros datos</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239381" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208205500 +0100" stop="20260208211500 +0100" channel="ES: LA 1 ᴴᴰ">
@@ -3803,13 +3836,13 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>8F Aragón decide T2026 · Resultados</title>
-    <sub-title>2026 | ★6.4/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239383" />
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208222500 +0100" stop="20260209004000 +0100" channel="ES: LA 1 ᴴᴰ">
@@ -3864,13 +3897,16 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Telediario Matinal</title>
-    <sub-title>2023 | ★6.2/10</sub-title>
+    <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -3904,13 +3940,16 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Telediario 1</title>
-    <sub-title>2014 | ★6.2/10</sub-title>
+    <sub-title>2014 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -3951,7 +3990,7 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Directo al grano T2 E26</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Magacín) Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -3960,10 +3999,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Valle Salvaje T3 E110</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Telenovela) Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -3973,10 +4015,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>La Promesa T1 E771</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -3987,10 +4032,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Malas lenguas T2 E101</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -4000,7 +4048,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="ES: LA 1 ᴴᴰ">
@@ -4020,13 +4068,16 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>Telediario 2</title>
-    <sub-title>2021 | ★6.2/10</sub-title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -4045,7 +4096,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>La revuelta T2 E75</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Entrevista) Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -4055,6 +4106,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210015000 +0100" channel="ES: LA 1 ᴴᴰ">
     <title>DecoMasters T1 E3</title>
@@ -5413,7 +5467,7 @@
 	</programme>
 	<programme start="20260208130500 +0100" stop="20260208150000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>D Corazón T3 E12</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Corazon y sociedad) Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -5423,21 +5477,18 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208150000 +0100" stop="20260208154500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Telediario 1 Fin de Semana</title>
-    <sub-title>2021 | TP | ★4.0/10</sub-title>
+    <sub-title>2021 | ★4.0/10</sub-title>
     <desc>(Información,Informativo) Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP1114179" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>4.0/10</value>
 		</star-rating>
@@ -5538,13 +5589,13 @@
 	</programme>
 	<programme start="20260208204500 +0100" stop="20260208205500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>8F Aragón decide T2026 · Primeros datos</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239381" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208205500 +0100" stop="20260208211500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
@@ -5574,13 +5625,13 @@
 	</programme>
 	<programme start="20260208212000 +0100" stop="20260208222500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>8F Aragón decide T2026 · Resultados</title>
-    <sub-title>2026 | ★6.4/10</sub-title>
+    <sub-title>2026 | ★5.8/10</sub-title>
     <desc>(Información,Informativo) Los Servicios Informativos de RTVE ofrecen la última hora de las elecciones en Aragón, con conexiones en directo desde los puntos de interés, con la votación de los candidatos, los primeros datos y la revelación de los resultados.
 · País: España</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4239383" />
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208222500 +0100" stop="20260209004000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
@@ -5635,13 +5686,16 @@
 	</programme>
 	<programme start="20260209060000 +0100" stop="20260209075000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Telediario Matinal</title>
-    <sub-title>2023 | ★6.2/10</sub-title>
+    <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.
 · País: España
 · Presenta: Sirun Demirjian, Lorena Baeza, Álex Barreiro.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518404" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -5675,13 +5729,16 @@
 	</programme>
 	<programme start="20260209145500 +0100" stop="20260209153500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Telediario 1</title>
-    <sub-title>2014 | ★6.2/10</sub-title>
+    <sub-title>2014 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -5722,7 +5779,7 @@
 	</programme>
 	<programme start="20260209155500 +0100" stop="20260209173500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Directo al grano T2 E26</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Magacín) Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
 · País: España
 · Presenta: Marta Flich, Gonzalo Miró.</desc>
@@ -5731,10 +5788,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209173500 +0100" stop="20260209183500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Valle Salvaje T3 E110</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Telenovela) Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.
 · País: España
 · Reparto: Rocío Suárez de Puga, Manuela Velasco, José Manuel Seda, Marina Sabadell, Mari Paz Sayago, Chechu Salgado.
@@ -5744,10 +5804,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183500 +0100" stop="20260209193500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>La Promesa T1 E771</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -5758,10 +5821,13 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209203000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Malas lenguas T2 E101</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -5771,7 +5837,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209203000 +0100" stop="20260209205500 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
@@ -5791,13 +5857,16 @@
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209214000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>Telediario 2</title>
-    <sub-title>2021 | ★6.2/10</sub-title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Información,Informativo) Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
@@ -5816,7 +5885,7 @@
 	</programme>
 	<programme start="20260209214500 +0100" stop="20260209230000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>La revuelta T2 E75</title>
-    <sub-title>2026 | ⑫</sub-title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Entrevista) Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
 · País: España
 · Presenta: David Broncano.
@@ -5826,6 +5895,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210015000 +0100" channel="ES: LA 1 ᵁᴴᴰ 3840P">
     <title>DecoMasters T1 E3</title>
@@ -7275,7 +7347,7 @@
 	</programme>
 	<programme start="20260208103000 +0100" stop="20260208113000 +0100" channel="ES: LA 2 HD">
     <title>El día del señor T2026 · Parroquia de San Camilo de Lelis, Madrid</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Cultural/Educativo,Religión) Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
@@ -7286,7 +7358,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208113000 +0100" stop="20260208120000 +0100" channel="ES: LA 2 HD">
@@ -7307,7 +7379,7 @@
 	</programme>
 	<programme start="20260208120000 +0100" stop="20260208123000 +0100" channel="ES: LA 2 HD">
     <title>Un país en bicicleta. Diario de una ciclista · Camino Real de Guadalupe</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Documentales,Viajes) Ainara Hernando inicia una ruta en bicicleta desde Madrid a Guadalupe siguiendo el 'Camino Real'. Comienza en la Parroquia de San Jerónimo el Real, recorre lugares emblemáticos de Madrid y se dirige a Móstoles.
 · País: España
 · Presenta: Ainara Hernando.</desc>
@@ -7317,7 +7389,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208123000 +0100" stop="20260208125500 +0100" channel="ES: LA 2 HD">
@@ -7427,30 +7499,18 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260208161500 +0100" stop="20260208170000 +0100" channel="ES: LA 2 HD">
-    <title>Italia. El último territorio salvaje · El bosque de los osos pardos</title>
-    <sub-title>2023 | TP</sub-title>
-    <desc>(Documentales,Naturaleza) Recorrido por los paisajes únicos de Italia para capturar cómo los lobos, osos, halcones y águilas en peligro de extinción cazan y crían a sus crías.
-· Dirección: Francesco Petretti.</desc>
-    <category>Documentales, Naturaleza</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P3284729" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20260208170000 +0100" stop="20260208175000 +0100" channel="ES: LA 2 HD">
-    <title>Las historias del bosque mediterráneo · El acorazado del bosque</title>
-    <sub-title>2017 | TP | ★6.2/10</sub-title>
-    <desc>(Documentales,Naturaleza) La cuenca del Mediterráneo es una de las regiones más ricas del planeta.
-· País: España
-· Dirección: Jose Antonio Vallejo.</desc>
-    <category>Documentales, Naturaleza</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P1526092" />
+	<programme start="20260208161500 +0100" stop="20260208175000 +0100" channel="ES: LA 2 HD">
+    <title>DIRECTO Jornada 23: Sevilla - Girona T25/26 · LALIGA EA SPORTS</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4455676" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208175000 +0100" stop="20260208182000 +0100" channel="ES: LA 2 HD">
@@ -7546,7 +7606,7 @@
 	</programme>
 	<programme start="20260208221000 +0100" stop="20260208230000 +0100" channel="ES: LA 2 HD">
     <title>Al cielo con ella T2 · Paula Vázquez y Amparo Llanos</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★2.0/10</sub-title>
     <desc>(Entretenimiento,Late Night) El programa recibe en su plató a la presentadora Paula Vázquez y a la guitarrista, cantante y compositora, Amparo Llanos. Henar Álvarez dedica su monólogo a las rupturas.
 · País: España
 · Dirección: Henar Álvarez, Javier Durán, Alberto Fernández.</desc>
@@ -7555,6 +7615,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260208230000 +0100" stop="20260209013500 +0100" channel="ES: LA 2 HD">
     <title>Un amor</title>
@@ -7625,7 +7688,7 @@
 	</programme>
 	<programme start="20260209041000 +0100" stop="20260209050000 +0100" channel="ES: LA 2 HD">
     <title>Pablo Picasso y Françoise Gilot, ''la mujer que dice no''</title>
-    <sub-title>2021 | TP | ★6.0/10</sub-title>
+    <sub-title>2021 | TP | ★6.4/10</sub-title>
     <desc>(Documentales,Arte y cultura) Françoise Gilot fue la única que se atrevió a dejar al genial artista.
 · País: Francia
 · Dirección: Annie Maïllis, Sylvie Blum.</desc>
@@ -7635,7 +7698,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209050000 +0100" stop="20260209052500 +0100" channel="ES: LA 2 HD">
@@ -7724,7 +7787,7 @@
 	</programme>
 	<programme start="20260209072000 +0100" stop="20260209081000 +0100" channel="ES: LA 2 HD">
     <title>Hundidos: RMS Solway</title>
-    <sub-title>2018 | TP | ★6.4/10</sub-title>
+    <sub-title>2018 | TP | ★6.2/10</sub-title>
     <desc>(Documentales,Ciencia tecnología) El equipo de buzos, con Carlos a la cabeza, sale en busca del Solway, un vapor inglés construido en 1841, hundido a 20 metros de profundidad en los Bajos de Baldaio, en A Coruña.
 · País: España
 · Productora: Karlos Simón.</desc>
@@ -7734,7 +7797,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209081000 +0100" stop="20260209090000 +0100" channel="ES: LA 2 HD">
@@ -7928,7 +7991,7 @@
 	</programme>
 	<programme start="20260209174500 +0100" stop="20260209193500 +0100" channel="ES: LA 2 HD">
     <title>Malas lenguas T2 E101</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Magacín) Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
 · País: España
 · Dirección: Jesús Cintora.</desc>
@@ -7938,12 +8001,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209193500 +0100" stop="20260209202500 +0100" channel="ES: LA 2 HD">
     <title>En busca de secretos: París</title>
-    <sub-title>2023 | ⑦ | ★6.6/10</sub-title>
+    <sub-title>2023 | ⑦ | ★6.4/10</sub-title>
     <desc>(Documentales,Historia) Cada gran metrópolis tiene sus secretos, algunos escondidos en los anales de la historia y otros ocultos a plena vista.
 · País: Reino Unido</desc>
     <category>Documentales, Historia</category>
@@ -7952,7 +8015,7 @@
 			<value>7</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209202500 +0100" stop="20260209211000 +0100" channel="ES: LA 2 HD">
@@ -10738,14 +10801,11 @@
 	</programme>
 	<programme start="20260209031500 +0100" stop="20260209041500 +0100" channel="ES: ANTENA 3 ᴴᴰ">
     <title>Galería del coleccionista</title>
-    <sub-title>2021 | TP | ★6.0/10</sub-title>
+    <sub-title>2021 | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Televenta) Espacio comercial.
 · País: España</desc>
     <category>Ocio y Aficiones, Televenta</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MA3P1254041" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
@@ -10923,7 +10983,7 @@
 	</programme>
 	<programme start="20260209200000 +0100" stop="20260209210000 +0100" channel="ES: ANTENA 3 ᴴᴰ">
     <title>Pasapalabra T5 E1458</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Concurso) Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
 · País: España
 · Presenta: Roberto Leal.
@@ -10934,7 +10994,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209210000 +0100" stop="20260209213000 +0100" channel="ES: ANTENA 3 ᴴᴰ">
@@ -12530,7 +12590,7 @@
 	</programme>
 	<programme start="20260208100000 +0100" stop="20260208100500 +0100" channel="ES: CUATRO HD">
     <title>Iumiuky T1 E305</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Naturaleza) Espacio en el que diversos expertos ofrecen consejos para el cuidado de las mascotas.
 · País: España</desc>
     <category>Ocio y Aficiones, Naturaleza</category>
@@ -12538,6 +12598,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260208100500 +0100" stop="20260208112000 +0100" channel="ES: CUATRO HD">
     <title>Volando voy: Soria</title>
@@ -12634,7 +12697,6 @@
 · Producción: Will Smith, James Lassiter, Akiva Goldsman.
 · Productora: Columbia Pictures.</desc>
     <category>Cine, Acción</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3950886" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
@@ -12642,7 +12704,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260208172500 +0100" stop="20260208200000 +0100" channel="ES: CUATRO HD">
+	<programme start="20260208172500 +0100" stop="20260208200500 +0100" channel="ES: CUATRO HD">
     <title>Oblivion</title>
     <sub-title>2013 | ⑫ | ★7.0/10</sub-title>
     <desc>(Cine,Ciencia ficción) En 2077, uno de los trabajadores que quedan en una Tierra de posguerra se cuestiona su misión.
@@ -12660,7 +12722,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260208200000 +0100" stop="20260208210000 +0100" channel="ES: CUATRO HD">
+	<programme start="20260208200500 +0100" stop="20260208210000 +0100" channel="ES: CUATRO HD">
     <title>Noticias Cuatro fin de semana</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Roberto Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
@@ -12698,7 +12760,7 @@
 	</programme>
 	<programme start="20260208211500 +0100" stop="20260208214500 +0100" channel="ES: CUATRO HD">
     <title>Cuarto Milenio: Arrancando la Nave T1 E21</title>
-    <sub-title>2026 | ⑫ | ★5.4/10</sub-title>
+    <sub-title>2026 | ⑫ | ★5.6/10</sub-title>
     <desc>(Ocio y Aficiones,Esoterismo) Arranca la nave de Cuarto Milenio con novedades para esta nueva temporada.
 · País: España</desc>
     <category>Ocio y Aficiones, Esoterismo</category>
@@ -12707,7 +12769,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260208214500 +0100" stop="20260209001500 +0100" channel="ES: CUATRO HD">
@@ -12726,13 +12788,13 @@
 	</programme>
 	<programme start="20260209001500 +0100" stop="20260209040000 +0100" channel="ES: CUATRO HD">
     <title>DIRECTO Super Bowl: Seattle Seahawks - New England Patriots T25/26 · NFL</title>
-    <sub-title>2026 | ★5.8/10</sub-title>
+    <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol americano) Santa Clara acoge la fiesta final de la NFL, la Super Bowl. Los campeones de la Conferencia Nacional, los Seattle Seahawks, se miden a sus homólogos de la Americana, los New England Patritots, en busca del anillo. Bad Bunny realiza el show del descanso.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4456001" />
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209040000 +0100" stop="20260209050000 +0100" channel="ES: CUATRO HD">
@@ -12842,13 +12904,18 @@
 	</programme>
 	<programme start="20260209103000 +0100" stop="20260209140000 +0100" channel="ES: CUATRO HD">
     <title>En boca de todos E109</title>
-    <sub-title>2026 | ⑯</sub-title>
-    <desc>(Documentales,Actualidad) Programa diario de actualidad que acerca a los espectadores las noticias principales.</desc>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Documentales,Actualidad) Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
     <category>Documentales, Actualidad</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4108706" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239842" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209140000 +0100" stop="20260209145000 +0100" channel="ES: CUATRO HD">
     <title>Noticias Cuatro mediodía</title>
@@ -12865,9 +12932,10 @@
 	<programme start="20260209145000 +0100" stop="20260209151500 +0100" channel="ES: CUATRO HD">
     <title>ElDesmarque de Cuatro mediodía. Lunes a viernes T3 E403</title>
     <sub-title>2026</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.</desc>
+    <desc>(Deportes,Programa deportes) Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España</desc>
     <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3899259" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239844" />
 	</programme>
 	<programme start="20260209151500 +0100" stop="20260209153000 +0100" channel="ES: CUATRO HD">
     <title>El tiempo</title>
@@ -12883,23 +12951,34 @@
 	</programme>
 	<programme start="20260209153000 +0100" stop="20260209183000 +0100" channel="ES: CUATRO HD">
     <title>Todo es mentira T7 E109</title>
-    <sub-title>2026 | ⑯</sub-title>
-    <desc>(Entretenimiento,Humor) Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+    <sub-title>2026 | ⑯ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Humor) Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
     <category>Entretenimiento, Humor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4108708" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239840" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209183000 +0100" stop="20260209200000 +0100" channel="ES: CUATRO HD">
     <title>Lo sabe, no lo sabe T2 E93</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Entretenimiento,Concurso) Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.</desc>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones.
+· Productora: Mediaset España.</desc>
     <category>Entretenimiento, Concurso</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4110006" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239836" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260209200000 +0100" stop="20260209204000 +0100" channel="ES: CUATRO HD">
     <title>Noticias Cuatro noche</title>
@@ -12916,9 +12995,11 @@
 	<programme start="20260209204000 +0100" stop="20260209205500 +0100" channel="ES: CUATRO HD">
     <title>ElDesmarque de Cuatro noche. Lunes a viernes T3 E403</title>
     <sub-title>2026</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.</desc>
+    <desc>(Deportes,Programa deportes) Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
     <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3899257" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239846" />
 	</programme>
 	<programme start="20260209205500 +0100" stop="20260209210500 +0100" channel="ES: CUATRO HD">
     <title>El tiempo</title>
@@ -12934,38 +13015,51 @@
 	</programme>
 	<programme start="20260209210500 +0100" stop="20260209214000 +0100" channel="ES: CUATRO HD">
     <title>First dates T10 E309</title>
-    <sub-title>2025 | ⑫ | ★5.6/10</sub-title>
-    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.</desc>
+    <sub-title>2025 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
     <category>Entretenimiento, Telerrealidad</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3108986" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3916188" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209214000 +0100" stop="20260209230000 +0100" channel="ES: CUATRO HD">
     <title>Horizonte: informe covid T1 E7</title>
-    <sub-title>2020 | ⑯ | ★10.0/10</sub-title>
-    <desc>(Información,Investigación) El programa ofrecerá nuevas declaraciones de la doctora Li-Meng Yan, la viróloga china huida a Estados Unidos a quien Iker Jiménez entrevistó en exclusiva el pasado jueves.</desc>
+    <sub-title>2020 | ⑯ | ★9.2/10</sub-title>
+    <desc>(Información,Investigación) El programa ofrecerá nuevas declaraciones de la doctora Li-Meng Yan, la viróloga china huida a Estados Unidos a quien Iker Jiménez entrevistó en exclusiva el pasado jueves.
+· País: España
+· Presenta: Íker Jiménez.
+· Productora: Plural Entertainment.</desc>
     <category>Información, Investigación</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1831303" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>9.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260209230000 +0100" stop="20260210002000 +0100" channel="ES: CUATRO HD">
     <title>Proyecto Sistiaga E4</title>
-    <sub-title>2026 | ⑫</sub-title>
-    <desc>(Documentales,Actualidad) Jon Sistiaga dirige este programa que disecciona diferentes realidades sociales y busca huir de prejuicios e ideas preconcebidas. El espacio aborda diferentes temas de actualidad.</desc>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Actualidad) Jon Sistiaga dirige este programa que disecciona diferentes realidades sociales y busca huir de prejuicios e ideas preconcebidas. El espacio aborda diferentes temas de actualidad.
+· País: España
+· Dirección: Jon Sistiaga.
+· Productora: El Terrat.</desc>
     <category>Documentales, Actualidad</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4213858" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239838" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260210002000 +0100" stop="20260210012500 +0100" channel="ES: CUATRO HD">
     <title>Otro enfoque: Tops</title>
@@ -12998,9 +13092,11 @@
 	<programme start="20260210015500 +0100" stop="20260210031000 +0100" channel="ES: CUATRO HD">
     <title>ElDesmarque Madrugada T3 E185</title>
     <sub-title>2026 | ⑱</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.</desc>
+    <desc>(Deportes,Programa deportes) Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
+· País: España
+· Presenta: Ricardo Reyes.</desc>
     <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P3900863" />
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P4239834" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
@@ -14421,214 +14517,6 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260208082500 +0100" stop="20260208103500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial de Fórmula 1 T2024 · GP de Azerbaiyán: Carrera</title>
-    <sub-title>2024 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4286292" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208103500 +0100" stop="20260208124000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial de Fórmula 1 T2024 · GP de Catar: Carrera</title>
-    <sub-title>2024 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4321302" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208124000 +0100" stop="20260208144000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial de Fórmula 1 T2021 · GP de Rusia: Carrera</title>
-    <sub-title>2021 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3943536" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208144000 +0100" stop="20260208145500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>75 años de F1</title>
-    <sub-title>2025 | TP | ★5.6/10</sub-title>
-    <desc>(Deportes,Fórmula 1) 75 años de F1.</desc>
-    <category>Deportes, Fórmula 1</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2432037V4179999" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208145500 +0100" stop="20260208170500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial F1 - GP de Países Bajos T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4392497" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208170500 +0100" stop="20260208173700 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Código F1 T2025 · Países Bajos</title>
-    <sub-title>2025 | TP | ★5.6/10</sub-title>
-    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364453" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208173700 +0100" stop="20260208183400 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Bravissimo</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Fórmula 1) Bravissimo.</desc>
-    <category>Deportes, Fórmula 1</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2470416V4215349" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208183400 +0100" stop="20260208190500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Gearbox T2025 E17</title>
-    <sub-title>2025 | TP | ★5.8/10</sub-title>
-    <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
-    <category>Deportes, Fórmula 1</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2366790V4092263" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208190500 +0100" stop="20260208211000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★6.6/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4389906" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208211000 +0100" stop="20260208214000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Código F1 T2025 · Hungría</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364453" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208214000 +0100" stop="20260208223000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial F1 - GP de Bélgica T2025 · Sprint</title>
-    <sub-title>2025 | TP | ★6.8/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4389043" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260208223000 +0100" stop="20260209003000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★5.4/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4389047" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260209003000 +0100" stop="20260209010000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Código F1 T2025 · Bélgica</title>
-    <sub-title>2025 | TP | ★5.4/10</sub-title>
-    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364453" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260209010000 +0100" stop="20260209024000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial F1 - GP de Hungría T2025 · Box, Box</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4389896" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260209024000 +0100" stop="20260209050000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial de Fórmula 1 T2022 · GP de Mónaco: Carrera</title>
-    <sub-title>2022 | TP | ★6.6/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3995438" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260209050000 +0100" stop="20260209071500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
-    <title>Mundial de Fórmula 1 T2022 · GP de Canadá: Carrera</title>
-    <sub-title>2022 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4013373" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20260209071500 +0100" stop="20260209080000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
     <title>Especiales F1 T2024 · Fernando. Revelado</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
@@ -15698,7 +15586,7 @@
 	</programme>
 	<programme start="20260213154500 +0100" stop="20260213170000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
     <title>DIRECTO Pretemporada Baréin. Test 1. Día 3 T2026 · Test de Pretemporada</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -15706,7 +15594,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260213170000 +0100" stop="20260213180000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
@@ -15750,7 +15638,7 @@
 	</programme>
 	<programme start="20260213203000 +0100" stop="20260213210000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
     <title>Gearbox T2025 E16</title>
-    <sub-title>2025 | TP | ★6.6/10</sub-title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
     <category>Deportes, Fórmula 1</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2345412V4092262" />
@@ -15758,12 +15646,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260213210000 +0100" stop="20260213220000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
     <title>Pretemporada Baréin. Test 1. Día 3 T2026 · Test de Pretemporada</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -15771,7 +15659,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260213220000 +0100" stop="20260214000500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
@@ -15958,7 +15846,7 @@
 	</programme>
 	<programme start="20260214120000 +0100" stop="20260214130000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
     <title>Pretemporada Baréin. Test 1. Día 3 T2026 · Test de Pretemporada</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -15966,7 +15854,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260214130000 +0100" stop="20260214150000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
@@ -16123,6 +16011,227 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215043500 +0100" stop="20260215064500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial de Fórmula 1 T2023 · GP de Brasil: Carrera</title>
+    <sub-title>2023 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4143932" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215064500 +0100" stop="20260215085700 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial de Fórmula 1 T2024 · GP de Hungría: Carrera</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4246250" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215085700 +0100" stop="20260215110500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial de Fórmula 1 T2024 · GP de Las Vegas: Carrera</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4320126" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215110500 +0100" stop="20260215131600 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Abu Dabi T2025 · Carrera</title>
+    <sub-title>2025 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4443950" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215131600 +0100" stop="20260215134000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Código F1 T2025 · Abu Dabi</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215134000 +0100" stop="20260215140600 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>La carrera de Carlos</title>
+    <sub-title>2025 | TP | ★5.6/10</sub-title>
+    <desc>(Deportes,Fórmula 1) La carrera de Carlos.</desc>
+    <category>Deportes, Fórmula 1</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2369832V4120080" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215140600 +0100" stop="20260215150600 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Estados Unidos T2025 · Sprint</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370581" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215150600 +0100" stop="20260215160600 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Pretemporada Baréin. Test 1. Día 3 T2026 · Test de Pretemporada</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215160600 +0100" stop="20260215181400 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370579" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215181400 +0100" stop="20260215184900 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Gearbox T2025 E13</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <category>Deportes, Fórmula 1</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2274509V3962121" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215184900 +0100" stop="20260215210000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de México T2025 · Carrera</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4427771" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215210000 +0100" stop="20260215220000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Pretemporada Baréin. Test 1. Día 3 T2026 · Test de Pretemporada</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215220000 +0100" stop="20260215223000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Gearbox T2025 E20</title>
+    <sub-title>TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+    <category>Deportes, Fórmula 1</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2442282V4188550" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215223000 +0100" stop="20260215232500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Brasil T2025 · Sprint</title>
+    <sub-title>2025 | TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4436759" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260215232500 +0100" stop="20260216013000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Brasil T2025 · Carrera</title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4436763" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260216013000 +0100" stop="20260216020000 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Código F1 T2025 · Brasil</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260216020000 +0100" stop="20260216034500 +0100" channel="DAZN F1 RAW ᵃᵐᶻ">
+    <title>Mundial F1 - GP de Las Vegas T2025 · Box, Box</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4440258" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 </tv>
